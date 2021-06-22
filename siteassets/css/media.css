@@ -1,0 +1,6863 @@
+
+@media only screen and (max-width:414px) {
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		bottom: 0%!important;
+	}
+}
+@media only screen and (max-width:320px) {
+	.e_commerce button.btnQuote span:after {
+		line-height: 1.4
+	}
+	.appAnalytics .analyticslastquote .analyticslastquoteInner .btnQuote {
+		width: 100%
+	}
+	.eLernings .learning-Top .ExpandingDiv .Expanding {
+		font-size: 1.5em;
+		text-align: center
+	}
+	.eLernings .learning-Top .ExpandingDiv .Empower {
+		font-size: 1em;
+		text-align: center
+	}
+	.eLernings .learning-Top .ExpandingDiv .withtriazine {
+		font-size: 1em;
+		text-align: center
+	}
+	.eLernings .androidappDevlopTxtTop .androdappDevlopTopTxtP1 {
+		line-height: 1.5
+	}
+	.eLernings .ElearnigSoltion .iosappDevlopTxtTopColRInner {
+		border-left: none;
+		margin-top: 3%
+	}
+	.eLernings .ElearnigSoltion .iosappDevlopTxtTopColRInner img {
+		width: 80px;
+		float: left
+	}
+	.eLernings .androidDevlopTxtTopColR .iosappDevlopTxtTopColRInner button {
+		height: 40px;
+		padding: 3% 5%;
+		margin-top: 3%
+	}
+	.eLernings p.ElearnigSoltion1Headdingpara1 {
+		font-size: 1.3em;
+		font-weight: 600
+	}
+	.eLernings .androidappDevlopTxtTop .androidDevlopTxtTopColR {
+		padding: 0
+	}
+	.eLernings .greatLearningDivHeadding {
+		font-size: 1.5em;
+		padding: 1% 8%
+	}
+	.eLernings .greatLearningDiv .greatLearningDivInner .col-L img {
+		width: 100%
+	}
+	.eLernings .caseStudyInnerHeadding {
+		font-size: 1.5em;
+		margin-bottom: 0
+	}
+	.eLernings .LatestLearning {
+		font-size: .9em
+	}
+	.eLernings .caseStudyInnerPara {
+		font-size: 1em;
+		line-height: 1.5;
+		margin-top: 5%;
+		width: 100%
+	}
+	.eLernings .caseStudyInner .caseStudyInnerText {
+		font-size: 3em;
+		margin-top: 4%;
+		margin-bottom: -7%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolR img {
+		width: 350px;
+		height: 150px;
+		margin-left: -10%;
+		margin-bottom: 10%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolL img {
+		width: 50%;
+		margin: 13% 0 2% -40%
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt {
+		width: 100%;
+		padding-bottom: 10%
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .greatLearningDivImgetxtH {
+		font-size: 1.2em
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .greatLearningDivImgetxtP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-control-prev {
+		bottom: -87%;
+		left: 67%
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-control-next {
+		right: 0;
+		bottom: -87%
+	}
+	.eLernings .ElearnigSoltion1Headdingpara1Span {
+		line-height: 1.5
+	}
+	.eLernings .greatLearningDivSpan {
+		width: 90%;
+		line-height: 1.5
+	}
+	.eLernings .DivLearning div p {
+		padding: 0;
+		font-size: 1em;
+		line-height: 1.78
+	}
+	.eLernings .greatLearningDiv .greatLearningDivInner .col-md-2.col-L {
+		width: 33%
+	}
+	.eLernings .DivLearning div .buttonDivLearning {
+		width: 100%;
+		height: 50px
+	}
+	.row.cstmRow {
+		float: left;
+		text-align: initial
+	}
+	.header.active .row .col-md-4:nth-of-type(1) {
+		width: 35%!important
+	}
+	.header.active .row .col-md-4:nth-of-type(2) {
+		width: 60%;
+		justify-content: flex-start;
+		padding-left: 0
+	}
+	.header.active .row .col-md-4 img.Logo-stycky {
+		width: 66%;
+		margin-top: -10px
+	}
+	.Logo-1 {
+		width: 176px;
+		height: 140px;
+		margin-top: -64%;
+		margin-left: 20%
+	}
+	.cstmRow {
+		width: 100%!important;
+		margin: 0 0!important
+	}
+	/* .container-top {
+		padding-top: 30%!important
+	} */
+	.container-top .pdiv p:nth-of-type(1) {
+		font-size: 6.3vw;
+		width: 100%
+	}
+	.container-top .pdiv p:nth-of-type(1) span {
+		font-size: 6.3vw
+	}
+	.container-top .pdiv p:nth-of-type(2) {
+		width: 100%;
+		font-size: 1em
+	}
+	.container-top .row .col-md-4:nth-of-type(3) {
+		display: none
+	}
+	.container-bottom .div1 .shortRow {
+		width: 100%;
+		margin-top: -10%
+	}
+	.happy .col-L {
+		background-size: 91% 100%;
+		width: 100%;
+		height: 434px
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		width: 94%;
+		margin-right: 4%;
+		margin-top: -12%
+	}
+
+	.happy .col-R .happyGreenDiv .happytenp .happytenspan {
+		margin-left: 3%
+	}
+	.div3 .div32 .browseServiceBtn {
+		margin: 5% 0 0
+	}
+	.commentdiv {
+		background-size: 92% 100%, 100% 100%;
+		background-position: 53%, 84% 111px
+	}
+	.commentdiv .commentdivInner {
+		margin-left: 7%
+	}
+	.carousel-inner {
+		max-height: 330px
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 25vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 25vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 60%;
+		margin-right: 5%;
+		margin-bottom: 5%
+	}
+	.copyrightouter {
+		flex-basis: auto
+	}
+	.page-footer .copyrightdiv .col img {
+		width: 30%
+	}
+	.e_commerce .container-e_commerce-div .ecommecepdiv .ecommecep1 {
+		font-size: 2em;
+		text-align: center;
+		margin-left: 0
+	}
+	.e_commerce .container-e_commerce-div .ecommecepdiv .ecommecep2 {
+		line-height: 1.4;
+		margin-left: 0;
+		text-align: center
+	}
+	.e_commerce .ecommecepdiv .ecommecep3 li {
+		font-size: 1em
+	}
+	.e_commerce .ecommecepdiv ul.text-left.ecommecep3 {
+		margin-top: 10%
+	}
+	.e_commerce .ecommecepdiv ul.text-left.ecommecep3 {
+		margin-left: -15%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		margin: 0;
+		margin-left: 10%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		padding-top: 0
+	}
+	.careerlasdata div .btnQuote {
+		width: 60%
+	}
+	.secondDivImage1 {
+		width: 286px;
+		height: 339px
+	}
+	.btndivButton {
+		padding: 3% 6%;
+		margin-top: 5%
+	}
+	.e_commerce .ecombanner_img .img-banner {
+		width: 100%;
+		margin-top: 0
+	}
+	.e_commerce .blogdivTxt .blockdivpp2,
+	.e_commerce .blogdivTxt .blogdivP1 {
+		line-height: 1.5
+	}
+	.e_commerce .blackblogcloR .expert_talk {
+		border-left: none
+	}
+	.e_commerce .blackblogcloR img.img-fluid {
+		width: 30%;
+		float: left
+	}
+	.e_commerce .ecommerceblackdiv .blogdivTxt .blackblog .blackblogcloR button {
+		font-size: .9em;
+		width: 65%!important;
+		margin: 4% 2% 0 0
+	}
+	.e_commerce .commrce-greenR .cstmRowCareer .blackcolLH {
+		font-size: 1.3em;
+		line-height: 1.4;
+		font-weight: 600
+	}
+	.e_commerce p.blackcolLP.mr-4.wow.fadeInDown {
+		line-height: 1.5;
+		color: #616161;
+		font-family: Inter Regular
+	}
+	.e_commerce .ecommerceblackdiv .ecomrce_blacktxt .blackcoL12 {
+		line-height: 1.5
+	}
+	.e_commerce .ecommerceblackdiv .ecomrce_blacktxt .blackcolRP2 {
+		line-height: 1.5
+	}
+	.e_commerce .commercegreendiv .commrce-greenR ul {
+		padding-left: 0;
+		margin-left: 5%
+	}
+	.e_commerce .commercegreendiv .commrce-greenR .technologylist {
+		font-size: 24px;
+		margin-bottom: 8%;
+		margin-top: 12%
+	}
+	.e_commerce .commercegreendiv .commrce-greenR ul li {
+		line-height: 1.5
+	}
+	.e_commerce .e_commtechdiv .commercetechH {
+		font-size: 1.5em;
+		line-height: 1.4
+	}
+	.e_commerce .e_commtechdiv .coomrcetechP {
+		font-size: 1em;
+		line-height: 1.5;
+		padding: 0;
+		margin-top: 8%
+	}
+	.e_commerce .e_commtechdiv .row1 div {
+		width: 50%
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyH {
+		font-size: 1.5em
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .ecomrcestudi {
+		font-size: .9em;
+		line-height: 1.5
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP1 {
+		line-height: 1.5;
+		color: #616161;
+		font-size: .8em;
+		margin-top: 5%
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		font-size: 2.5em!important;
+		line-height: .8;
+		margin-top: 5%
+	}
+	.e_commerce .cstmRowCareercontnt {
+		width: 100%!important;
+		margin: 0!important
+	}
+	.e_commerce .careerlasdata div p {
+		font-size: 1.1em;
+		line-height: 1.78;
+		color: #616161;
+		padding: 0;
+		margin-top: 10%
+	}
+	.e_commerce .careerlasdata div .btnQuote {
+		width: 100%;
+		padding: 4%;
+		line-height: 1.5
+	}
+	.e_commerce .e-commercasestydiv .scrollrow {
+		position: relative
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL {
+		position: absolute;
+		bottom: -9%;
+		text-align: center
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolR img {
+		margin-bottom: 9%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLH {
+		font-size: 1.125em;
+		line-height: 2;
+		margin: 2%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLP {
+		display: none
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolRRR {
+		position: unset
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolRRR img {
+		margin-bottom: 20%;
+		margin-top: 5%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolR {
+		padding-top: 7%
+	}
+	.page-footer .row.cstmRow {
+		float: left;
+		text-align: initial
+	}
+	.page-footer .copyrightdiv .col:nth-of-type(3) {
+		display: flex
+	}
+	.iot_internetthings .iot_internetcasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		margin: 0 0 -104% 12%
+	}
+	.iot_internetthings .iot_internetcasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		margin: -102% 4% 3% 11%
+	}
+	.iot_internetthings .iot_internetcasestydiv .internetingcasestytxt .iot_casestyPP2 {
+		font-size: 4em
+	}
+}
+
+@media screen and (device-width:360px) and (device-height:640px) {
+
+	.e_commerce .cstmRowCareercontnt {
+		width: 100%!important;
+		margin: 0 0!important
+	}
+	.eLernings .learning-Top .ExpandingDiv .Expanding {
+		font-size: 1.3em;
+		text-align: center
+	}
+	.eLernings .androidappDevlopTxtTop .iosappDevlopTxtTopColRInner {
+		border-left: none
+	}
+	.eLernings .ElearnigSoltion .iosappDevlopTxtTopColRInner img {
+		width: 88px;
+		float: left
+	}
+	.eLernings .androidDevlopTxtTopColR .iosappDevlopTxtTopColRInner button {
+		margin-top: 5%
+	}
+	.eLernings .androidappDevlopTxtTop {
+		margin-top: 30%
+	}
+	.eLernings .ElearnigSoltion2 {
+		text-align: inherit
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolL img {
+		margin: 10% 0 2% -40%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolR img {
+		width: 419px;
+		height: 150px;
+		margin-left: -14%;
+		margin-bottom: 10%
+	}
+	.eLernings .DivLearning div p {
+		padding: 0
+	}
+	.eLernings .DivLearning div .buttonDivLearning {
+		width: 100%
+	}
+	.page-footer .copyrightdiv .col:nth-of-type(3) {
+		float: left;
+		margin-right: 65%;
+		margin-bottom: 4%
+	}
+	.header.active .row .col-md-4:nth-of-type(1) {
+		width: 35%!important
+	}
+	.header.active .row .col-md-4:nth-of-type(2) {
+		width: 60%;
+		justify-content: flex-start;
+		padding-left: 0
+	}
+	.header.active .row .col-md-4 img.Logo-stycky {
+		width: 66%;
+		margin-top: -10px
+	}
+	.Logo-1 {
+		width: 176px;
+		height: 140px;
+		margin-top: -64%;
+		margin-left: 20%
+	}
+	.cstmRow {
+		width: 100%!important;
+		margin: 0 0!important
+	}
+	.container-top {
+		padding-top: 30%!important
+	}
+	.container-top .pdiv p:nth-of-type(1) {
+		font-size: 6.3vw;
+		width: 100%
+	}
+	.container-top .pdiv p:nth-of-type(1) span {
+		font-size: 6.3vw
+	}
+	.container-top .pdiv p:nth-of-type(2) {
+		width: 100%;
+		font-size: 1em
+	}
+	.container-top .row .col-md-4:nth-of-type(3) {
+		display: none
+	}
+	.happy .col-R .happyDivtop .happyp1 {
+		font-size: 2em;
+		line-height: 1.6
+	}
+	.container-bottom .div1 .shortRow .whitecol img:nth-of-type(1) {
+		margin-left: 0
+	}
+	.container-bottom .div1 .shortRow {
+		width: 100%;
+		margin-top: -10%
+	}
+	.happy .col-L {
+		background-size: 91% 100%;
+		width: 100%;
+		height: 434px
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		width: 94%;
+		margin-right: 4%;
+		margin-top: -12%
+	}
+	.happy .col-R .happyGreenDiv .happytenp .happytenspan {
+		font-size: 10.8vw;
+		margin-right: 2%;
+		margin-left: 3%
+	}
+	.commentdiv {
+		background-size: 92% 100%, 100% 100%;
+		background-position: 53%, 84% 111px
+	}
+	.commentdiv .commentdivInner {
+		margin-left: 7%
+	}
+	.commentdiv .commentdivInner .cmntP1 .cmntPSpan {
+		font-size: 1.5em
+	}
+	.commentdiv .commentdivInner h3 {
+		font-size: 3.25em
+	}
+	.carousel-inner {
+		max-height: 346px
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 25vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 60%;
+		margin-right: 5%;
+		margin-bottom: 5%
+	}
+	.contactUsSection .ContactUs {
+		margin: 5% 0;
+		text-align: center
+	}
+	.copyrightouter {
+		flex-basis: auto
+	}
+	.page-footer .copyrightdiv .col img {
+		width: 30%
+	}
+	.footer-copyright.py-3 {
+		display: flex
+	}
+	.row.nav.nav-pills.productdevRow span {
+		display: none
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		margin: 0;
+		margin-left: 10%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		padding-top: 0
+	}
+	.careerlasdata div .btnQuote {
+		width: 60%
+	}
+	.e_commerce .container-e_commerce-div .ecommecepdiv .ecommecep1 {
+		text-align: center!important
+	}
+	.e_commerce .container-e_commerce-div .ecommecepdiv .ecommecep2 {
+		margin-left: 0;
+		text-align: center!important
+	}
+	.e_commerce .ecommecepdiv ul.text-left.ecommecep3 {
+		margin-left: 0!important;
+		width: 100%!important
+	}
+	.e_commerce .ecombanner_img .img-banner {
+		width: 100%;
+		margin-top: 0
+	}
+	.e_commerce .commercegreendiv .commrce-greenR ul {
+		margin-left: -6%!important
+	}
+	.e_commerce .commrce-greenR .cstmRowCareer .blackcolLH {
+		font-size: 1.2em
+	}
+	.e_commerce .e_commtechdiv .row1 div,
+	.e_commerce .e_commtechdiv .row2 div {
+		width: 40%!important
+	}
+	.e_commerce .blackblogcloR .expert_talk {
+		border-left: none!important
+	}
+	.e_commerce .blackblogcloR img.img-fluid {
+		width: 70px!important;
+		float: left!important
+	}
+	.commentdiv .commentBoxStyle {
+		height: 350px!important
+	}
+	.commentdiv .owl-height {
+		height: 445px!important
+	}
+	.commentdiv .commentBox .commentBox1 {
+		font-size: .9em
+	}
+	.cstmRowBackground {
+		padding: 15% 0 6%
+	}
+	.firstDivContent {
+		font-size: 1.7em
+	}
+	.cstmRowCol2Headding2 {
+		font-size: 4.8em
+	}
+	.divButton {
+		margin: 10% 0
+	}
+	.btndivButton {
+		font-size: 1.4em;
+		padding: 3%
+	}
+	button.btndivButton {
+		padding: 3.5% 3%
+	}
+	.thirdDivHeading {
+		font-size: 2.5em
+	}
+	.customer-logos .img1 {
+		width: 100%
+	}
+	.customer-logos.img2 {
+		width: 100%
+	}
+	.customer-logos .img3 {
+		width: 50%
+	}
+	.customer-logos .img4 {
+		width: 65%
+	}
+	.customer-logos .img5 {
+		width: 100%
+	}
+	.customer-logos .img6 {
+		width: 85%
+	}
+	.IndexContactImg {
+		height: fit-content!important
+	}
+	.footer-contact-section .myForm {
+		width: 92%;
+		padding: 2% 6% 16% 6%
+	}
+	.sidepanel .leftMenuRowCol2 .col8content {
+		margin-left: 4%;
+		margin-top: 4%
+	}
+	.col8contentfirstDiv .col-md-6:nth-of-type(2) {
+		padding-left: 0
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		font-size: 5em;
+		line-height: .8;
+		margin-top: 0
+	}
+	.engagementSection .engagementColrow .colImgTag {
+		margin-top: 2%
+	}
+	.engagementSection .OnlineFoodimg {
+		margin: 0 4%
+	}
+	.contactUsSection .col2ContctUs .customCheckbox {
+		padding-left: 15%
+	}
+	.contactUsSection .contactUsLastSectionDiv .myForm .captchadiv {
+		width: 89%
+	}
+	.contactUsSection button.clear {
+		right: 1%
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv .col-md-6 img {
+    margin-top: 0%;
+}
+	.mail-title {
+    font-size: 1rem;
+}
+form .field-input {
+    font-size: 0.9rem;
+}
+	.head-contact-top {
+    position: absolute !important;
+    right: 8px;
+		flex-direction: row-reverse;
+		width: 17% !important;
+}
+nav.navbar.navbar-expand-md.header.only-landingpage.active .Logo-stycky {
+    width: 50% !important;
+    margin-top: -4.4rem!important;
+    margin-left: 4rem;
+}
+/*	a.mobile_icon {
+    position: absolute;
+    top: -7.7rem;
+    right: 0rem;
+}
+ .header.active a.mobile_icon {
+    position: absolute;
+    top: -10.6rem;
+    right: 0rem;
+} */
+	.head-contact-top span{display: none!important;}
+	/* 11-1-2021 */
+	.e_commerceCarousel.ionicapp h1.scrollheadH {
+    margin: 2% 10px 2% 10px;
+    font-size: 2rem;
+}
+	.cloudComputings .banner_textimg {
+	    width:100%;
+	    margin: auto;
+	}
+	.banner_textimg .row {
+	    width: auto;
+	}
+	.mt-custom {
+    margin-top: .5rem!important;
+    padding-top: .5rem!important;
+		padding: 0
+}
+	.pd-0{padding-left: 0;padding-right: 0;}
+	.mt-custom h3.RowWebDevPhoneRH {
+	    font-size: 1.11em;
+	    font-weight: 600;
+	}
+	.dotnet-solution li {
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+}
+
+	.helloTax-Detial .container-helloTax-details {
+		padding-bottom: 18%
+	}
+	.helloTax-Detial .container-helloTax-details .hellotax-top-content {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 1%
+	}
+	.helloTax-Detial .container-helloTax-details .hellotax-top-content .hellotax-top-contentL {
+		align-items: center
+	}
+	.helloTax-Detial .container-helloTax-details .hellotax-top-content .hellotax-top-contentL .hellotax-top-contentH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.helloTax-Detial .container-helloTax-details .hellotax-top-content .hellotax-top-contentL .hellotax-top-contentP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em
+	}
+	.helloTax-Detial .container-helloTax-details .hellotax-top-content .folio-topRow {
+		margin: 0;
+		width: 100%
+	}
+	.helloTax-Detial .hellotax-yellowDiv .hellotax-yellowDivL .hellotax-yellowDivH {
+		font-family: Inter Semi Bold;
+		font-size: 20px;
+		line-height: 1.9
+	}
+	.helloTax-Detial .hellotax-yellowDiv .hellotax-yellowDivL .hellotax-yellowDivP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.helloTax-Detial .hellotax-yellowDiv .hellotax-yellowDivR img {
+		width: 100%;
+		margin-right: 5%
+	}
+	.helloTax-Detial .hellotax-result {
+		padding: 7% 0 10%
+	}
+	.helloTax-Detial .hellotax-mobileImage {
+		margin-top: 30%!important;
+		margin: 30% 0 0 0!important;
+		width: 100%!important
+	}
+	.helloTax-Detial .hellotax-technologydiv .hellotax-technologydivRow .col-md-2 {
+		margin: auto;
+		width: 33.3%!important
+	}
+	.helloTax-Detial .hellotax-cstmGets .hellotax-cstmGetsH,
+	.helloTax-Detial .hellotax-projOverview .hellotax-projOverviewH,
+	.helloTax-Detial .hellotax-result .hellotax-resultH,
+	.helloTax-Detial .hellotax-wtwedid .hellotax-wtwedidH {
+		line-height: 1.42;
+		margin-bottom: 6%
+	}
+	.helloTax-Detial .hellotax-projOverview .hellotax-projOverviewP,
+	.helloTax-Detial .hellotax-result .hellotax-resultP {
+		color: #616161
+	}
+	.helloTax-Detial .hellotax-cstmGets .hellotax-cstmGetsRow .hellotax-cstmGetsCol .hellotax-cstmGetsP,
+	.helloTax-Detial .hellotax-result .row .hellotax-resultColL .hellotax-resultL li p,
+	.helloTax-Detial .hellotax-wtwedid .hellotax-wtwedidRow .hellotax-wtwedidcol .hellotax-wtwedidcolP {
+		color: #616161;
+		width: 84%
+	}
+	.helloTax-Detial .hellotax-cstmGets .hellotax-cstmGetsRow .hellotax-cstmGetsCol .hellotax-doneicon,
+	.helloTax-Detial .hellotax-wtwedid .hellotax-wtwedidRow .hellotax-wtwedidcol .hellotax-doneicon {
+		width: 15%
+	}
+	.helloTax-Detial .hellotax-result .row .hellotax-resultColL .hellotax-resultL li i.fa {
+		margin-right: 5%
+	}
+	.helloTax-Detial .hellotax-result .row .hellotax-resultColR img {
+		height: auto;
+		margin-top: 0
+	}
+	.helloTax-Detial .hellotax-result .row .hellotax-resultColR {
+		text-align: center
+	}
+	.helloTax-Detial .hellotax-technologydiv .hellotax-technologydivRow {
+		margin: auto!important
+	}
+	.cloudComputings .Cloud_computing {
+		width: 90%!important;
+		margin-left: auto!important;
+		margin-right: auto!important
+	}
+	.cloudComputings .container-cloud-computing-div .Cloud_computing_text_Powering {
+		padding: 0
+	}
+	.cloudComputings .Cloud_computing_text {
+		padding: 0
+	}
+	.cloudComputings .container-cloud-computing-div .Cloud_computing_text_Powering .Cloud_computing_text_Powering1 {
+		font-size: 1.4em;
+		line-height: 1.42;
+		text-align: center!important;
+		margin-top: 10%!important
+	}
+	.cloudComputings .container-cloud-computing-div .Cloud_computing_text_private {
+		font-size: 1em;
+		line-height: 1.75;
+		text-align: center!important
+	}
+	.cloudComputings .Cloud_computing_half_divContainer {
+		width: 90%!important;
+		margin: auto!important
+	}
+	.cloudComputings .Cloud_computing_half_div .Cloud_computing_half_div_title {
+		font-size: 1.2em;
+		line-height: 1.9
+	}
+	.cloudComputings .cstmRowCareers.Our_cloud {
+		width: 90%!important;
+		margin-left: auto!important;
+		margin-right: auto!important
+	}
+	.cloudComputings .computing_service {
+		width: 90%!important;
+		margin-left: auto!important;
+		margin-right: auto!important
+	}
+	.computing_framework_col {
+		padding: 0
+	}
+	.cloudComputings .computing_framework .computing_framework_col img {
+		margin-top: 5%
+	}
+	.cloudComputings .Key_Cloud .Our_cloud .Our_cloud1 .Key_service .Key_service_title {
+		font-size: 1.4em;
+		line-height: 1.42;
+		margin-bottom: 5%;
+		padding: 0!important
+	}
+	.cloudComputings .Key_service_title1 {
+		text-align: left;
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.cloudComputings .computing_framework h4.computing_framework_colH {
+		font-size: 1.2em;
+		line-height: 1.67
+	}
+	.cloudComputings .computing_framework_colP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.cloudComputings .CLoud_industries .cloud_indH {
+		font-size: 1.4em;
+		line-height: 1.42
+	}
+	.cloudComputings .CLoud_industries .cloud_indP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.cloudComputings .Cloud_Technoloy_Container .cloud_TechH {
+		font-size: 1.4em;
+		line-height: 1.42
+	}
+	.cloudComputings .Cloud_Technoloy_Container .cloud_TechP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.cloudComputings .Cloud_SoltuionSlider .cstmRowCareer .scrollcolL {
+		display: none
+	}
+	.cloudComputings .scrollcolR img {
+		padding: 0 5%;
+		margin: auto
+	}
+	.cloudComputings .scrollcolRImageText {
+		display: block;
+		position: absolute;
+		bottom: 0;
+		background: #f78d2e;
+		color: #f4faff;
+		width: 100%;
+		padding: 4%;
+		font-size: 1.2em;
+		margin-bottom: 0
+	}
+	.cloudComputings .Cloud_SoltuionSlider .cstmRowCareer .scrollcolR {
+		padding-top: 0!important
+	}
+	.cloudComputings .scrollcolR {
+		position: relative;
+		max-width: 800px;
+		margin: 0 auto
+	}
+	.cloudComputings .Cloud_SoltuionSlider .Cloud_SoltuionSlidertxt .Cloud_SoltuionSliderH {
+		font-size: 1.4em;
+		line-height: 1.42
+	}
+	.cloudComputings .Cloud_SoltuionSlider .Cloud_SoltuionSlidertxt .Cloud_SoltuionSlider_Latest {
+		font-size: .9em
+	}
+	.cloudComputings .Cloud_SoltuionSlider .Cloud_SoltuionSlidertxt .Cloud_SoltuionSlider_Check {
+		font-size: 1em;
+		line-height: 1.5;
+		text-align: left
+	}
+	.cloudComputings .Cloud_SoltuionSlidertxtContainer {
+		padding: 0
+	}
+	.cloudComputings .Cloud_Technoloy_FirstRow_img {
+		width: 25%
+	}
+	.cloudComputings .CLoud_industries .card {
+		width: auto;
+		display: block;
+		min-height: auto;
+		height: auto;
+		margin-left: 0;
+		margin-right: 0
+	}
+	.CLoud_industries .cloud_Servecard_web {
+		display: none
+	}
+	.CLoud_industries .cloud_Servecard_Mobile {
+		display: block
+	}
+	.CLoud_industries .cardMobile .overlayMainDivMobile {
+		display: none;
+		background: #fff;
+		color: #333;
+		padding: 3% 0
+	}
+	.CLoud_industries .card .hoverdiv .hoverp1,
+	.CLoud_industries .card .hoverdiv h5 {
+		float: none
+	}
+	.CLoud_industries .card .default {
+		padding: 3% 2%;
+		flex-direction: row!important;
+		display: flex!important;
+		height: auto!important
+	}
+	.cloudComputings .card img {
+		margin: 0 3%
+	}
+	.CLoud_industries .card .default h5 {
+		padding: 0;
+		margin-bottom: 0
+	}
+	.CLoud_industries .cloud_Serve {
+		padding: 0;
+		margin: 0
+	}
+	.cloudComputings .Cloud_SoltuionSlider .Cloud_SoltuionSlidertxt .Cloud_SoltuionSlider_Checkp2 {
+		margin-bottom: -10%!important;
+		font-size: 3em
+	}
+	.cloudComputings .Cloud_computing_text_img img {
+		margin-bottom: 5%!important
+	}
+	.cloudComputings .Cloud_SoltuionSlider .carousel-indicators {
+		display: none
+	}
+	.item.cstmCarouselItemshadow img {
+		height: 320px!important
+	}
+	.parkingSWSolution .container-parkingSWSolution-div .parkingSWSolutionpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 1%
+	}
+	.parkingSWSolution .container-parkingSWSolution-div .parkingSWSolutionpdiv .parkingSWSolutionpdivL .parkingSWSolutionpdivH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.parkingSWSolution .container-parkingSWSolution-div .parkingSWSolutionpdiv .parkingSWSolutionpdivL .parkingSWSolutionpdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important
+	}
+	.parkingSWSolution .container-parkingSWSolution-div .parkingSWSolutionpdiv .parkingSWSolutionpdivR img {
+		margin-top: 0
+	}
+	.parkingSWSolution .parkingProjOvrview .parkingProjOvrviewH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.parkingSWSolution .parkingProjOvrview .parkingProjOvrviewP:nth-of-type(3) {
+		line-height: 1.5
+	}
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow1 .ParkingApplicationR1ColL {
+		padding-left: 0
+	}
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow1 .ParkingApplicationR1ColL .ParkingApplicationR1ColLH,
+	.parkingSWSolution .trackingApplication .trackingApplicationRow .trackingApplicationColL .trackingApplicationColLH,
+	.parkingSWSolution .trafficApplication .trafficApplicationRow .trafficApplicationColL .trafficApplicationColLH {
+		font-size: 1.5em;
+		font-family: Inter Semi Bold;
+		line-height: 1.42
+	}
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow2 .col-md-6.ParkingApplicationR2ColL,
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow2 .col-md-6.ParkingApplicationR2ColR {
+		padding: 0
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL,
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColR {
+		padding: 0
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColR img {
+		margin-top: 10%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLH {
+		font-family: Inter Semi Bold;
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv p {
+		font-family: Inter Regular;
+		font-size: .75em!important;
+		line-height: 1.4;
+		padding: 3% 3%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p3 {
+		padding: 0
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p4,
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p5 {
+		bottom: -9%;
+		padding: 3% 7%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p5 {
+		padding: 3% 2%
+	}
+	.parkingSWSolution .trackingApplication .trackingApplicationRow .trackingApplicationColL,
+	.parkingSWSolution .trackingApplication .trackingApplicationRow .trackingApplicationColR,
+	.parkingSWSolution .trafficApplication .trafficApplicationRow .trafficApplicationColL,
+	.parkingSWSolution .trafficApplication .trafficApplicationRow .trafficApplicationColR {
+		padding: 0
+	}
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow1 .ParkingApplicationR1ColL .ParkingApplicationR1ColLP,
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow2 .ParkingApplicationR2ColL .ParkingApplicationR2ColLP,
+	.parkingSWSolution .ParkingApplication .ParkingApplicationRow2 .ParkingApplicationR2ColR .ParkingApplicationR2ColRP,
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLP,
+	.parkingSWSolution .trackingApplication .trackingApplicationRow .trackingApplicationColL .trackingApplicationColLP,
+	.parkingSWSolution .trafficApplication .trafficApplicationRow .trafficApplicationColL .trafficApplicationColLP {
+		line-height: 1.5
+	}
+	.parkingSWSolution .technologydiv .technologydivRow .col-md-2 {
+		margin: auto;
+		width: 33.3%!important
+	}
+	.parkingSWSolution .technologydiv .technologydivRow {
+		margin: 0!important;
+		width: 100%!important;
+		flex-wrap: wrap;
+		padding-bottom: 8%
+	}
+	.item.cstmCarouselItemshadow img {
+		height: 320px!important
+	}
+
+	.item.cstmCarouselItemshadow img {
+		height: 320px!important
+	}
+	.meterReading .container-meterReading-div .meterReadingpdiv {
+		width: 100%!important;
+		margin: auto
+	}
+	.meterReading .container-meterReading-div .meterReadingpdiv .meterReadingpdivL .meterReadingpdivH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.meterReading .container-meterReading-div .meterReadingpdiv .meterReadingpdivL .meterReadingpdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important
+	}
+	.meterReading .container-meterReading-div .meterReadingpdiv .meterReadingpdivR img {
+		margin-top: 0
+	}
+	.meterReading .meterReadwhtweoffer .meterReadwhtweofferH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.meterReading .meterReadwhtweoffer .meterReadwhtweofferP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.meterReading .meterReadwhtweofferRow .meterReadwhtweofferRowColR .meterReadwhtweofferRowColRH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		margin-top: 4%;
+		font-family: Inter Semi Bold
+	}
+	.meterReading .metercasestudy .metercasestudyRow .metercasestudyRowL .metercasestudyRowLH1 {
+		font-size: 1.5em;
+		text-align: center
+	}
+	.meterReading .metercasestudy .metercasestudyRow .metercasestudyRowL .metercasestudyRowLP {
+		line-height: 1.5!important;
+		text-align: center;
+		font-size: 1.25em;
+		font-family: Inter Medium;
+		margin-top: 4%
+	}
+	.meterReading .metercasestudy .metercasestudyRow .metercasestudyRowL .metercasestudyRowLP1 {
+		text-align: center
+	}
+	.meterReading .metercasestudy .metercasestudyRow .metercasestudyRowR img {
+		position: relative;
+		width: 100%
+	}
+	.meterReading .meterbusinschallng .meterbusinschallngH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		font-family: Inter Semi Bold
+	}
+	.meterReading .meterwtwedid .meterwtwedidH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		font-family: Inter Semi Bold
+	}
+	.meterReading .meterOutcomes .meterOutcomesRow .meterOutcomesRowL .meterOutcomesRowLH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		font-family: Inter Semi Bold
+	}
+	.meterReading .meterOutcomes .meterOutcomesRow .meterOutcomesRowR img {
+		height: auto;
+		width: 54.6%
+	}
+	.meterReading .meterReadwhtweofferRow .meterReadwhtweofferRowColR {
+		padding: 5%
+	}
+	.meterReading .meter_technologydiv .meter_technologydivRow {
+		flex-wrap: wrap
+	}
+	.meterReading .meter_technologydiv .meter_technologydivRow .col-md-2 {
+		width: 33.33%
+	}
+	.sitemapSection .siteMapContainer-top .site_map .site_mapHeaddingCol7 .site_mapsHeadding {
+		font-size: 1.8em!important;
+		line-height: 1.42!important;
+		text-align: center!important;
+		padding-top: 0!important
+	}
+	.sitemapSection .siteMapContainer-top .site_map .site_mapHeaddingCol7 .site_mapsHeaddingPara {
+		width: 100%;
+		text-align: center!important;
+		font-size: 1em!important;
+		line-height: 1.5;
+		margin-top: 3%!important;
+		padding-top: 0!important
+	}
+	.jauntFix-details .container-jauntfix-details .jauntFixbanner-top-content {
+		width: 100%!important;
+		margin: auto!important;
+		text-align: center
+	}
+	.jauntFix-details .container-jauntfix-details .jauntFixbanner-top-content .jauntfix-top-contentL .jauntfix-top-contentH {
+		font-size: 1.8em
+	}
+	.jauntFix-details .container-jauntfix-details .jauntFixbanner-top-content .jauntfix-top-contentL .jauntfix-top-contentP {
+		font-size: 1em;
+		line-height: 1.62
+	}
+	.jauntFix-details .jauntfixedetails_projOverview .jauntfixedprojOverviewH {
+		font-size: 1.3em
+	}
+	.jauntFix-details .jauntfixedetails_projOverview .jauntfixedprojOverviewP {
+		line-height: 1.7
+	}
+	.jauntFix-details .Jountfixedproductdetails .row .JountfixedproductdetailsColR img {
+		width: 100%
+	}
+	.jauntFix-details .jountfixcstmFaces_details .jountfixcstmFaces_detailsH {
+		font-size: 1.3em
+	}
+	.jauntFix-details .jauntfixwe_did .jauntfixwe_didH {
+		font-size: 1.3em
+	}
+	.jauntFix-details .Jountfixedproductdetails .JountfixedproductdetailsH {
+		font-size: 1.3em;
+		line-height: 1.42
+	}
+	.igl-detailsApp .container-igl-details .iglbanner-top-content .igl-top-contentL .igl-top-contentH {
+		text-align: center!important;
+		margin: auto;
+		font-size: 1.8em
+	}
+	.igl-detailsApp .container-igl-details .iglbanner-top-content .igl-top-contentL .igl-top-contentP {
+		text-align: center!important;
+		margin-left: 0!important;
+		line-height: 1.62;
+		margin-top: 4%
+	}
+	.igl-detailsApp .iglbanner-top-content .igl-top-contentL .iglicon {
+		text-align: center
+	}
+	.igl-detailsApp .container-igl-details .iglbanner-top-content {
+		width: 100%;
+		margin: auto!important
+	}
+	.igl-detailsApp .igldetail_projOverview .iglprojOverviewH {
+		font-size: 1.3em!important
+	}
+	.igl-detailsApp .igldetail_projOverview .iglprojOverviewP {
+		line-height: 1.7
+	}
+	.igl-detailsApp .Productdetails .row .ProductdetailsColR img {
+		width: 100%
+	}
+	.igl-detailsApp .cstmFaces_details .cstmFaces_detailsH {
+		font-size: 1.3em!important
+	}
+	.igl-detailsApp .we_did .we_didH {
+		font-size: 1.3em!important
+	}
+	.igl-detailsApp .Productdetails .ProductdetailsH {
+		font-size: 1.3em!important
+	}
+	.igl-detailsApp .smartPhone .smartPhoneH {
+		font-size: 1.3em!important
+	}
+	.igl-detailsApp .smartPhone .smartPhoneH1 {
+		font-size: 1.3em!important
+	}
+	.aboutus_section .header_text .header_textL .header_textLH {
+		font-size: 1.8em!important;
+		line-height: 1.42!important;
+		text-align: center!important;
+		margin-top: 20%!important
+	}
+	.aboutus_section .header_text .header_textL p.header_textLP {
+		width: 100%;
+		text-align: center!important;
+		font-size: 1.2em!important;
+		line-height: 1.5;
+		margin-top: 3%!important;
+		padding-top: 0!important
+	}
+	.aboutus_section .whoweare_block {
+		margin: 27% 0 10% 0!important;
+		width: 100%!important
+	}
+	.aboutus_section .cstmRowCareer {
+		width: 95%!important;
+		margin: auto!important
+	}
+	.aboutus_section .header_text .header_textR img {
+		width: 100%!important;
+		margin-top: 0!important;
+		margin-left: 0!important
+	}
+	.aboutus_section .about_content .head_quater_block {
+		margin-top: -40%!important
+	}
+	.aboutus_section .container.containerText {
+		width: 100%!important;
+		text-align: center!important;
+		margin-left: 0!important;
+		margin-right: 0!important
+	}
+	.aboutus_section .container.containerText .row.header_text {
+		margin: 0
+	}
+	.aboutus_section .header_text .header_textL {
+		padding-right: 0!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 {
+		padding: 0!important;
+		margin: 0!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .col-sm-6.col-md-4 {
+		width: 33.3%!important;
+		padding: 0;
+		padding-right: 4%!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .col-sm-6.col-md-4:nth-of-type(4) {
+		padding-right: 0!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .media.services-wrap .img_block {
+		justify-content: center
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .media.services-wrap .img_block img {
+		width: 80%
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .media.services-wrap .img_block img:nth-of-type(2) {
+		width: 100%
+	}
+	.aboutus_section .about_content h3.Who-we-are {
+		font-size: 2em!important;
+		padding: 10% 0!important
+	}
+	.aboutus_section .about_content .Who-we-are-text {
+		line-height: 1.5!important
+	}
+	.aboutus_section .about_content .head_quater_block .Headquarters {
+		font-size: 1.5em!important;
+		padding: 0!important
+	}
+	.aboutus_section .about_content .head_quater_block .head_quater_blockL .HeadquarteredP1 {
+		font-size: 1em!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 p {
+		margin-top: 7%!important
+	}
+	.aboutus_section .about_content .head_quater_block .head_quater_blockR {
+		padding-top: 0!important
+	}
+	.aboutus_section .mission_section .mission_block2 img {
+		margin-left: 0!important
+	}
+	.aboutus_section .productdev-blk .prddevplop h3 {
+		font-size: 1.6em!important;
+		line-height: 1.42!important
+	}
+	.aboutus_section .productdev-blk .prddevplop p {
+		font-size: 1em!important;
+		margin-top: 4%;
+		line-height: 1.5
+	}
+	.aboutus_section .Technology-is-our-backbone-because-we-understand-t {
+		font-size: 1em!important;
+		line-height: 1.5
+	}
+	.aboutus_section .productdev-blk .prddevplop .shadowtext {
+		font-size: 2.2em!important;
+		line-height: .8!important;
+		margin-bottom: 0!important
+	}
+	.aboutus_section .developcycle {
+		width: 33.7%;
+		min-width: 33.7%;
+		margin-right: 5%
+	}
+	.aboutus_section .tab-content .tech_icon {
+		width: 33.3%
+	}
+	.aboutus_section .Technologies-that-we-used {
+		font-size: 1.6em!important
+	}
+	.aboutus_section .productdevRow {
+		overflow-x: scroll!important;
+		overflow-y: hidden!important;
+		white-space: nowrap!important;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		width: 100%!important;
+		margin-right: 0!important;
+		margin-left: 0!important
+	}
+	.aboutus_section .productdevRow::-webkit-scrollbar {
+		display: none!important
+	}
+	.aboutus_section .productdev-blk .wework .design_icon,
+	.aboutus_section .productdev-blk .wework .development_icon,
+	.aboutus_section .productdev-blk .wework .launch_icon,
+	.aboutus_section .productdev-blk .wework .plan_icon,
+	.aboutus_section .productdev-blk .wework .strategy_icon,
+	.aboutus_section .productdev-blk .wework .test_icon {
+		width: 100px;
+		height: 100px;
+		display: inline-block;
+		display: flex;
+		align-items: center;
+		justify-content: space-around
+	}
+	.aboutus_section .productdev-blk .wework img {
+		height: 50px;
+		object-fit: contain;
+		margin: 0!important;
+		margin-left: 20%!important
+	}
+	.aboutus_section .productdev-blk div#startegy h5 p {
+		margin-left: 0!important
+	}
+	.aboutus_section .technologies_blk ul.nav.nav-pills.portfol_pills.wow.fadeInDown {
+		overflow-x: scroll!important;
+		overflow-y: hidden!important;
+		white-space: nowrap!important;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap
+	}
+	.aboutus_section .technologies_blk .nav-pills .nav-link.active {
+		box-shadow: 0 50px 0 0 #2083d2!important
+	}
+	.aboutus_section .technologies_blk ul.nav.nav-pills.portfol_pills.wow.fadeInDown::-webkit-scrollbar {
+		display: none!important
+	}
+	.aboutus_section div#mobile img,
+	div#database img,
+	div#frontend img {
+		margin-bottom: 30%!important
+	}
+	.aboutus_section .productdev-blk .wework a.navlinkdesign:after {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-bottom: 0 solid #4086ef;
+		border-top: 1px solid #4086ef;
+		border-left: 1px solid #4086ef;
+		border-right: 0 solid #4086ef;
+		content: '';
+		bottom: -10%;
+		left: 40%;
+		transform: rotate(45deg);
+		background-color: #4086ef
+	}
+	.aboutus_section .productdev-blk .wework a.nav-link.navlinkstrategy:after {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-bottom: 0 solid #f29d2f;
+		border-top: 1px solid #f29d2f;
+		border-left: 1px solid #f29d2f;
+		border-right: 0 solid #f29d2f;
+		content: '';
+		bottom: -10%;
+		left: 40%;
+		transform: rotate(45deg);
+		background-color: #f29d2f
+	}
+	.aboutus_section .productdev-blk .wework a.nav-link.navlinkplan:after {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-bottom: 0 solid #50bda1;
+		border-top: 1px solid #50bda1;
+		border-left: 1px solid #50bda1;
+		border-right: 0 solid #50bda1;
+		content: '';
+		bottom: -10%;
+		left: 40%;
+		transform: rotate(45deg);
+		background-color: #50bda1
+	}
+	.aboutus_section .productdev-blk .wework a.nav-link.nallinkdevelopmentarow:after {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-bottom: 0 solid #9959da;
+		border-top: 1px solid #9959da;
+		border-left: 1px solid #9959da;
+		border-right: 0 solid #9959da;
+		content: '';
+		bottom: -10%;
+		left: 40%;
+		transform: rotate(45deg);
+		background-color: #9959da
+	}
+	.aboutus_section .productdev-blk .wework a.nav-link.navlinktestarrow:after {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-bottom: 0 solid #ff2e63;
+		border-top: 1px solid #ff2e63;
+		border-left: 1px solid #ff2e63;
+		border-right: 0 solid #ff2e63;
+		content: '';
+		bottom: -10%;
+		left: 40%;
+		transform: rotate(45deg);
+		background-color: #ff2e63
+	}
+	.aboutus_section .productdev-blk .wework a.nav-link.navlinklauncharrow:after {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-bottom: 0 solid #0098d9;
+		border-top: 1px solid #0098d9;
+		border-left: 1px solid #0098d9;
+		border-right: 0 solid #0098d9;
+		content: '';
+		bottom: -10%;
+		left: 40%;
+		transform: rotate(45deg);
+		background-color: #0098d9
+	}
+	.aboutus_section .productdev-blk div#strategy:after {
+		display: none
+	}
+	.aboutus_section .productdev-blk div#plan:after,
+	.aboutus_section .productdev-blk div#startegy:after,
+	div#design:after,
+	div#development:after,
+	div#launch:after,
+	div#test:after {
+		display: none
+	}
+	.aboutus_section .productdev-blk .wework a:after {
+		display: none
+	}
+	.aboutus_section .productdev-blk .wework.tabproductdevlist.active :after {
+		display: block
+	}
+	.aboutus_section .Union {
+		margin-top: 0!important;
+		height: auto!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .media.services-wrap {
+		width: 100%!important;
+		margin-bottom: 1.5rem!important
+	}
+	.aboutus_section .container-top.parallax {
+		margin-bottom: 0!important
+	}
+	.aboutus_section .whoweare_block {
+		margin-top: -7.2rem!important
+	}
+	.aboutus_section .productdev-blk li.nav-item.wework a {
+		padding-bottom: 25%;
+		font-family: Inter Semi Bold;
+		font-size: 1em!important;
+		padding-left: 0
+	}
+	.aboutus_section .tab-content .tech_icon {
+		width: 33.3%
+	}
+	.aboutus_section .member_block .content.title_block2 p {
+		text-align: center!important;
+		font-size: .9em
+	}
+	.aboutus_section .header_textR {
+		width: 100%!important;
+		margin-bottom: 5%;
+		margin-top: 4%
+	}
+	.aboutus_section .tab-content .tech_icon {
+		width: 33.3%
+	}
+	.aboutus_section .director_name {
+		width: 50%
+	}
+	.aboutus_section .overlay-shade {
+		height: 170px!important
+	}
+	.aboutus_section .zoom-effect-container {
+		min-height: 200px!important
+	}
+	.aboutus_section .ourteam_direct {
+		margin-bottom: 0!important
+	}
+	.aboutus_section .member_block {
+		margin: -10!important
+	}
+	.aboutus_section .member_block .content.title_block1 {
+		bottom: 15%!important;
+		padding: 0!important;
+		font-size: .9em;
+		width: 100%!important;
+		right: 0!important;
+		font-size: .9em
+	}
+	.aboutus_section .member_block .content.title_block2 {
+		bottom: 15%!important;
+		padding: 0!important;
+		width: 100%!important;
+		font-size: .9em!important;
+		width: 100%!important;
+		right: 0!important
+	}
+	.aboutus_section .ourteam_direct .content.title_block {
+		bottom: 15%!important;
+		padding: 0!important;
+		font-size: .8em
+	}
+	.aboutus_section .getfree_quote .container_happlyhelp .freequote_contant p {
+		line-height: 1.78;
+		font-size: 1.125em!important;
+		padding: 6% 3% 0!important
+	}
+	.aboutus_section .productdev-blk .wework span i.fa.fa-arrow-right {
+		margin: 32% 0!important;
+		margin-top: -6%!important;
+		position: relative!important;
+		margin-right: -160%!important;
+		font-size: 1.2em!important
+	}
+	.row.nav.nav-pills.productdevRow span {
+		display: block!important
+	}
+	.aboutus_section .productdev-blk div#startegy h5 p {
+		margin-left: 0!important
+	}
+	.aboutus_section div#database img,
+	.aboutus_section div#frontend img,
+	.aboutus_section div#mobile img {
+		height: 40px!important;
+		margin-bottom: 30%!important
+	}
+	.aboutus_section div#database img {
+		margin: 0!important;
+		margin-bottom: 10%!important
+	}
+	.aboutus_section .Union .nav_pills_content {
+		padding: 0 0!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .media.services-wrap {
+		width: 100%!important;
+		margin-bottom: 1.5rem!important
+	}
+	.aboutus_section .freequote_contant {
+		padding: 0!important
+	}
+	.aboutus_section .OurWideDiv {
+		margin-top: 130%!important
+	}
+	.aboutus_section .OurWide {
+		padding: 42% 5% 3%!important;
+		margin-top: -180px!important
+	}
+	.aboutus_section .OurWideh3 {
+		font-size: 1.5em!important;
+		line-height: 1.42
+	}
+	.aboutus_section .cstmRowEngagement {
+		width: 90%;
+		margin: 0 5% 0 5%;
+		margin-left: 5%!important
+	}
+	.aboutus_section .OnlineFood {
+		width: 100%!important
+	}
+	.aboutus_section .orderingSolutionRowDivHadding {
+		font-size: 1.125em!important;
+		line-height: 1.87!important;
+		color: #333!important;
+		padding-right: 9%!important;
+		margin-top: 1%!important
+	}
+	.aboutus_section .OrderList {
+		padding-right: 7%
+	}
+	.aboutus_section .orderingSolution {
+		margin-top: 0!important;
+		margin-bottom: 6%!important
+	}
+	.aboutus_section .orderingSolutionRow {
+		padding-bottom: 1%!important;
+		width: 100%!important;
+		margin: 0;
+		margin-left: 0!important;
+		height: auto!important
+	}
+	.aboutus_section .OnlineFood {
+		margin-bottom: 6%!important
+	}
+	.aboutus_section .OnlineFoodimg {
+		width: 44%!important;
+		margin: 0 20%!important
+	}
+	.aboutus_section .OnlineFoodHeadding {
+		font-size: 1em!important;
+		line-height: 1.57
+	}
+	.aboutus_section .custmOnlineFoodHeaddingFontPadding {
+		padding-left: 0!important
+	}
+	.aboutus_section .OnlineFood.tabSolLinks div {
+		background-color: transparent;
+		backdrop-filter: unset
+	}
+	.aboutus_section #OurWideDiv2TabWebabouts {
+		display: none
+	}
+	.aboutus_section #OurWideDiv2TabMobileview {
+		display: block!important
+	}
+	.aboutus_section .OnlineFood.tablinksfoodMobileviews.active {
+		margin-bottom: 0!important
+	}
+	.aboutus_section .OnlineFood.tablinksfoodMobileviews {
+		background-color: #fff;
+		color: #333!important
+	}
+	.aboutus_section .inner_vision {
+		background-color: transparent!important
+	}
+	.aboutus_section .vision_section .inner_vision .vision_block3 {
+		background: #257bc0;
+		margin: -9% 0 0 0!important;
+		width: 100%!important
+	}
+	.aboutus_section .vision_section .Our-Vision {
+		font-size: 1.2em!important
+	}
+	.aboutus_section .vision_section .Our-Vision {
+		padding-left: 4%!important
+	}
+	.aboutus_section .vision_section .We-are-one {
+		font-family: Inter!important;
+		padding: 1% 1% 7% 4%!important
+	}
+	.aboutus_section .vision_section .zoom-effect-container {
+		width: 100%!important;
+		position: relative
+	}
+	.aboutus_section .vision_section .inner_vision .vision_block2 {
+		padding: 0
+	}
+	.aboutus_section .inner_mission .mission_block2 {
+		padding: 0
+	}
+	.aboutus_section .inner_mission {
+		background-color: transparent!important
+	}
+	.aboutus_section .vision_section .mission_block3 {
+		background-color: #8cc440;
+		position: absolute;
+		width: 100%;
+		margin: 78% 4% 0 0!important;
+		z-index: 99
+	}
+	.aboutus_section .Our-Leadership-Title {
+		font-size: 1.1em!important;
+		line-height: 2
+	}
+	.aboutus_section .getfree_quote .getButton .getquteButton {
+		width: 100%!important;
+		line-height: 1.5;
+		font-size: 1em;
+		margin: 1% 0 9%!important;
+		padding: 4%!important
+	}
+	.e_governance .eGovernance_bannertext {
+		margin: auto
+	}
+	.e_governance .container-e_governance-div .eGovernance_bannertext .eGovernancpdiv .eGovernce1 {
+		text-align: center!important;
+		margin: auto;
+		font-size: 1.9em
+	}
+	.e_governance .container-e_governance-div .eGovernance_bannertext .eGovernancpdiv .eGovernce2 {
+		text-align: center!important;
+		margin-left: 0!important;
+		line-height: 1.75
+	}
+	.e_governance .governancebanner_img .img-egovernabanner {
+		width: 100%!important;
+		margin-top: 0!important
+	}
+	.e_governance .egovernanceblackdiv .blogdivTxt .blogdivP1 {
+		padding: 4% 3% 0 3%
+	}
+	.e_governance .egovernanceblackdiv .blogdivTxt .blockdivpp2 {
+		padding: 0 3%!important
+	}
+	.e_governance .egovernanceblackdiv .blackblogcloR .talkTo_expert {
+		border-left: transparent!important
+	}
+	.e_governance .egovernanceblackdiv .blackblogcloR img.img-fluid {
+		width: 80px;
+		float: left
+	}
+	.e_governance .egovernanceblackdiv .blogdivTxt .blackblog .blackblogcloR button {
+		display: inline-block;
+		width: 70%;
+		padding: 4% 0;
+		vertical-align: text-top
+	}
+	.e_governance .eGoverngreendiv .eGovegreenL img.img-fluid {
+		margin-top: 15%!important
+	}
+	.e_governance .eGoverngreendiv .eGovernance_blacktxt {
+		margin-left: 8%!important
+	}
+	.e_governance .eGoverngreendiv .govern-greenR .cstmRowCareer .blackcolLH {
+		font-size: 1.3em!important
+	}
+	.e_governance .eGoverngreendiv .govern-greenR ul {
+		margin-left: 8%!important;
+		padding-left: 0
+	}
+	.e_governance .e-governancecasestydiv .governccasestytxt .e_GovercasestyH {
+		font-size: 1.5em!important
+	}
+	.e_governance .e-governancecasestydiv .governccasestytxt .egoverrstudi {
+		font-size: 1em
+	}
+	.e_governance .e-governancecasestydiv .governccasestytxt .casestyP1 {
+		line-height: 1.5;
+		margin-top: 4%;
+		color: #616161
+	}
+	.e_governance .e-governancecasestydiv .governccasestytxt .casestyP2 {
+		font-size: 3.1em!important;
+		line-height: .8
+	}
+	.e_governance .e-governancecasestydiv .scrollrow {
+		position: relative!important
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .scrollcolL {
+		position: absolute!important;
+		bottom: 0!important;
+		text-align: center!important
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		font-size: 1.125em!important;
+		line-height: 2!important;
+		padding: 2%;
+		margin: auto
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .scrollcolR {
+		padding-top: 0
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		display: none
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .slidermoreRead {
+		display: none
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .scrollcolR img {
+		width: 100%;
+		padding: 0 5%
+	}
+	.e_governance .e-governancecasestydiv .cstmRowCareer .scrollcolR img {
+		margin-left: 0!important;
+		margin-bottom: 0!important
+	}
+	.e_governance .careerlasdata div p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 5% 1% 0
+	}
+	.e_governance .cstmRowCareercontnt {
+		width: 100%!important;
+		margin: auto!important
+	}
+	.e_governance button.btnQuote {
+		width: 100%!important;
+		line-height: 1.5;
+		font-size: 1em!important;
+		margin: 1% 0 9%!important;
+		padding: 4%
+	}
+	.mainTag {
+		overflow-x: hidden
+	}
+	.Portfolio .MainColoum {
+		width: 100%
+	}
+	.Portfolio .container-portfolio .portDiv {
+		width: auto;
+		margin: auto
+	}
+	.Portfolio .container-portfolio .portDiv .portDiv1 {
+		font-size: 1.4em;
+		line-height: 1.42;
+		text-align: center
+	}
+	.Portfolio .container-portfolio .portDiv .portDiv2 {
+		font-size: 1em;
+		line-height: 1.75;
+		text-align: center;
+		padding: 0
+	}
+	.Portfolio .portofolioTxt {
+		width: 90%
+	}
+	.Portfolio .portofolioTxt .portofolioTxt1 {
+		font-size: 1em;
+		line-height: 1.5;
+		padding: 0
+	}
+	.Portfolio .Gallery .btncontainer {
+		display: flex;
+		overflow-y: auto
+	}
+	.Portfolio .Gallery .butn {
+		padding: 4% 6%;
+		min-inline-size: max-content;
+		margin: 2%;
+		margin-bottom: 5%;
+		font-size: 1em;
+		line-height: 1.5;
+		width: 100%
+	}
+	.Portfolio .MainRow {
+		margin-left: 1%;
+		margin-right: 1%
+	}
+	.Portfolio .MainContaint {
+		margin-bottom: 2%
+	}
+	.Portfolio .MainContaint .pWithImg {
+		font-size: .9em;
+		line-height: 1.43
+	}
+	.Portfolio .MainContaint .pWithImg span {
+		font-size: .8em;
+		line-height: 1.57
+	}
+	.Portfolio .aggregatorWhere2Go {
+		margin-top: 5%
+	}
+	.Portfolio .aggregatorDiv {
+		margin-bottom: 5%
+	}
+	.Portfolio .aggregatorDiv .aggregatorimgDiv img {
+		width: 47%
+	}
+	.Portfolio .aggre .MainColoum.col-md-12 .row {
+		display: flex;
+		flex-direction: column-reverse
+	}
+	.Portfolio .aggregatorWhere2Go {
+		padding: 40%!important
+	}
+	.Portfolio .aggregatorPara {
+		font-size: 1.2em;
+		line-height: 2
+	}
+	.Portfolio .aggregatorParaOne {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.Portfolio .careerlast div .btnQuote {
+		min-width: max-content;
+		padding: 0 28%;
+		margin-left: -4%;
+		margin-bottom: 40%
+	}
+	.iot_internetthings .container-iot_internet-div .ecommecepdiv .ecommecep1 {
+		font-size: 1.4em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.iot_internetthings .container-iot_internet-div .ecommecepdiv .ecommecep2 {
+		text-align: center!important
+	}
+	.iot_internetthings .row.Analyticstalk {
+		width: 100%!important
+	}
+	.iot_internetthings .Iottalk2Xprt .Iottalk2Xprt_title {
+		font-size: 1.2em;
+		line-height: 1.9;
+		padding-right: 0!important
+	}
+	.iot_internetthings p.Analyticstalk2XprtTxtTopP1 {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.iot_internetthings .iot_internetblackdiv .blogdivTxt .blackblog .iotsoluction h1.in_title {
+		font-size: 1.4em;
+		line-height: 1.42;
+		padding: 0;
+		margin-bottom: 5%
+	}
+	.iot_internetthings .iot_internetblackdiv .blogdivTxt .blackblog .blogdivP1 {
+		font-size: 1em;
+		line-height: 1.5;
+		text-align: justify;
+		margin-bottom: 10%
+	}
+	.iot_internetthings .framworkUse {
+		padding: 0
+	}
+	.iot_internetthings .framworkUse .choosejsFramworkCol img {
+		margin-bottom: 2%
+	}
+	.iot_internetthings .framworkUse h4.choosejsFramworkColH {
+		font-size: 1.2em;
+		line-height: 1.67;
+		margin-bottom: 1%
+	}
+	.iot_internetthings .framworkUse .choosejsFramworkColP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: 15%
+	}
+	.iot_internetthings .iot-internetindustWholeDiv .iot-ttechH {
+		font-size: 1.4em;
+		line-height: 1.42
+	}
+	.iot_internetthings .iot_internetcasestydiv .internetingcasestytxt .internetcasestyH {
+		font-size: 1.4em;
+		line-height: 1.57
+	}
+	.iot_internetthings .iot_internetcasestydiv .internetingcasestytxt .iottxtcestudi {
+		font-size: .9em;
+		line-height: 1.42
+	}
+	.iot_internetthings .iot_internetcasestydiv .internetingcasestytxt .iott-casestyP1 {
+		font-size: 1em;
+		line-height: 1.5;
+		text-align: justify
+	}
+	.iot_internetthings .iot_internetcasestydiv .internetingcasestytxt .iot_casestyPP2 {
+		font-size: 3em;
+		margin-bottom: -10%
+	}
+	.iot_internetthings .iot_internetcasestydiv .cstmRowCareer .scrollcolL {
+		display: none!important
+	}
+	.iot_internetthings .scrollcolR img {
+		padding: 0 5%
+	}
+	.iot_internetthings .tradingRow .scrollcolR img {
+		padding-top: 0
+	}
+	.iot_internetthings .iot_internetcasestydiv .scrollcolR {
+		padding-top: 0
+	}
+	.iot_internetthings .scrollcolR {
+		position: relative;
+		max-width: 800px;
+		margin: 0 auto
+	}
+	.iot_internetthings .iot-internetindustWholeDiv .iot_nettechP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.iot_internetcasestydiv .scrollcolRImageText {
+		font-size: 1.2em;
+		font-family: Inter Semi Bold;
+		line-height: 2;
+		display: block;
+		position: absolute;
+		bottom: -4%;
+		background: #d93f61;
+		color: #f1f1f1;
+		width: 100%;
+		padding: 4% 2%
+	}
+	.iot_internetblackdiv .cstmRowCareers.blogdivTxt {
+		width: 100%
+	}
+	.iot_internetthings .framworkUse .mt-5 {
+		margin-top: 0!important
+	}
+	.iot_internetthings .iot_internetcasestydiv {
+		padding: 6% 0 30%
+	}
+	.iot_internetthings .iot-internetindustWholeDiv .card {
+		width: auto;
+		display: block;
+		min-height: auto;
+		height: auto
+	}
+	.iot_internetthings .iot-internetindustWholeDiv .card img {
+		margin: 0 4%
+	}
+	.iot_internetthings .p-0 {
+		margin-bottom: 5%
+	}
+	.iot-internetindustWholeDiv .card .default h5 {
+		padding-top: 0;
+		text-align: left;
+		font-size: 1.12em
+	}
+	.iot-internetindustWholeDiv .card .default {
+		flex-direction: row!important;
+		display: flex!important;
+		height: 25%!important
+	}
+	.iot_internetthings .iot-internetindustWholeDiv .ser-text {
+		padding-bottom: 0!important
+	}
+	.iot-internetindustWholeDiv .card .default {
+		padding: 3% 2%
+	}
+	.iot_internetthings .iot-internetindustWholeDiv .iot_nettechP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.iot_internetcasestydiv .scrollcolRImageText {
+		font-size: 1.2em;
+		font-family: Inter Semi Bold;
+		line-height: 2;
+		display: block;
+		position: absolute;
+		bottom: 0;
+		background: #d93f61;
+		color: #f1f1f1;
+		width: 100%;
+		padding: 2%;
+		margin-bottom: 0
+	}
+	.iot_internetblackdiv .cstmRowCareers.blogdivTxt {
+		width: 100%
+	}
+	.iot_internetthings .framworkUse .mt-5 {
+		margin-top: 0!important
+	}
+	.iot_internetthings .iot_internetcasestydiv {
+		padding: 6% 0 30%
+	}
+	.overlayMainDiv {
+		display: none;
+		position: relative;
+		height: auto
+	}
+	.iot-internetindustWholeDiv .hybrid_blockwowcard_web {
+		display: none
+	}
+	.iot-internetindustWholeDiv .hybrid_blockwowcard_Mobile {
+		display: block
+	}
+	.iot-internetindustWholeDiv .cardMobile .overlayMainDivMobile {
+		display: none;
+		background: #fff;
+		color: #333;
+		padding: 3% 0
+	}
+	.iot-internetindustWholeDiv .card .hoverdiv .hoverp1,
+	.iot-internetindustWholeDiv .card .hoverdiv h5 {
+		float: none
+	}
+	.iot_internetthings .iotSolution {
+		width: 100%
+	}
+	.iot_internetthings .solution_text {
+		padding: 0
+	}
+	.iot_internetthings .container-iot_internet-div .ecombanner_img {
+		margin-bottom: 15%
+	}
+	.iot_internetthings .row.Analyticstalk {
+		margin-left: 0!important;
+		margin-right: 0!important
+	}
+	.iot_internetthings .iot_internetcasestydiv .internetingcasestytxt .iott-casestyP1 {
+		text-align: center!important
+	}
+	.iot_internetthings .scrollcolR img {
+		float: none!important;
+		margin-left: 0!important
+	}
+	.contactUsSection .ContactUsContainer-top .svg1 .circle1,
+	.contactUsSection .ContactUsContainer-top .svg1 .circle2 {
+		display: none
+	}
+	.contactUsSection .ContactUsHeaddingImage {
+		text-align: unset!important;
+		margin-bottom: 20%!important
+	}
+	.ContactUs .ContactUsHeaddingImage img {
+		width: 90%!important;
+		margin-top: 5%
+	}
+	.contactUsSection .ContactUs {
+		width: 100%!important;
+		margin: 0!important;
+		padding: 0!important;
+    text-align: center;
+	}
+	.contactUsSection .customerNumber {
+		font-size: 1em!important;
+		line-height: 2.5;
+		display: contents
+	}
+	.contactUsSection .container-fluid {
+		text-align: -moz-center
+	}
+	.contactUsSection .ContactUsHeadding {
+		font-size: 1.4em;
+		line-height: 1.42
+	}
+	.contactUsSection .ContactUsHeaddingPara {
+		font-size: 1em;
+		line-height: 1.75
+	}
+	.contactUsSection .contactUsLastSectionDiv {
+		display: flex!important;
+		flex-direction: column-reverse!important
+	}
+	.contactUsSection .myForm {
+		width: 100%;
+		margin-left: 0;
+		margin-top: -28%!important
+	}
+	.contactUsSection .col2ContctUs {
+		padding: 0!important
+	}
+	.contactUsSection .contactUsLastSectionDiv .myForm .Contact-Us {
+		font-size: 1.4em;
+		line-height: 1.53
+	}
+	.contactUsLastSectionDiv .myForm .pshare {
+		font-size: .9em;
+		line-height: 1.57;
+		padding: 0 8% 0 0
+	}
+	.contactUsSection .contactUsLastSectionDiv .myForm .frminput {
+		margin-top: 1%
+	}
+	.contactUsSection .contactUsLastSectionDiv .myForm .frmSelectInput {
+		margin-top: 2%
+	}
+	.contactUsSection .col1ContctUs {
+		padding-right: 0
+	}
+	.contactUsSection .col1ContctUsCustomerSupport {
+		font-size: 1.2em;
+		line-height: 1.8;
+		margin: 2% 3%
+	}
+	.contactUsSection .customerNumber {
+		font-size: 1em;
+		line-height: 2.5;
+		display: contents
+	}
+	.contactUsSection .FollowUSHeadding {
+		margin: 5% 0;
+		font-size: 1.2em;
+		line-height: 1.8
+	}
+	.contactUsSection .FollowUS {
+		padding-bottom: 7%
+	}
+	.contactUsSection .contactUSCol1Headding {
+		margin-left: 0;
+		font-size: 1.4em;
+		line-height: 1.67
+	}
+	.col1ContctUsSupport .Phonetext Div {
+		display: none
+	}
+	.contactUsSection .CorporateHeadding {
+		font-size: 1.2em;
+		line-height: 1.5;
+		margin-top: -8%
+	}
+	.col1ContctUsSupport .Addresses {
+		font-size: 1em;
+		line-height: 2
+	}
+	.eLernings .learning-Top .ExpandingDiv .Empower {
+		text-align: center;
+		font-size: 1em;
+		line-height: 1.75;
+		margin-bottom: 0
+	}
+	.eLernings .learning-Top .cstmRowCareer {
+		margin: -5% 5% 0!important
+	}
+	.eLernings .learning-Top .ExpandingDiv .withtriazine {
+		text-align: center;
+		font-size: 1em;
+		line-height: 1.75
+	}
+	.eLernings .learning-Top .ExpandingDiv .Expanding {
+		text-align: center;
+		font-size: 1.8em
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt {
+		width: 100%;
+		padding-bottom: 10%
+	}
+	.eLernings .androidappDevlopTxtTop .iosappDevlopTxtTopColRInner {
+		border-left: none;
+		background-image: none;
+		margin-bottom: 4%
+	}
+	.iosappDevlopTxtTopColRInner img.img-fluid {
+		width: 75px!important;
+		float: left
+	}
+	.eLernings .androidDevlopTxtTopColR .iosappDevlopTxtTopColRInner button {
+		margin-top: 2%;
+		display: inline-block;
+		width: 70%;
+		padding: 4% 0;
+		height: 50px;
+		vertical-align: text-top
+	}
+	.eLernings p.ElearnigSoltion1Headdingpara1 {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		font-family: Inter Semi Bold;
+		margin-bottom: 4%
+	}
+	.eLernings .ElearnigSoltion1Headdingpara1Span {
+		line-height: 1.5!important
+	}
+	.eLernings .greatLearningDivHeadding {
+		font-size: 1.5em;
+		line-height: 1.5;
+		font-family: Inter Semi Bold
+	}
+	.eLernings .greatLearningDivSpan {
+		width: 90%;
+		line-height: 1.6;
+		margin: 0 5% 6%
+	}
+	.eLernings .greatLearningDivImge {
+		width: 100%;
+		margin: 0
+	}
+	.greatLearningDivInner .col-md-2.col-L {
+		width: 50%
+	}
+	.eLernings .caseStudyInnerHeadding {
+		font-size: 1.5em;
+		line-height: 1.5;
+		margin-bottom: 0
+	}
+	.eLernings .LatestLearning {
+		font-size: 1em;
+		line-height: 1.57
+	}
+	.eLernings .caseStudyInnerPara {
+		font-size: 1em;
+		line-height: 1.5;
+		width: 100%;
+		color: #616161;
+		margin: 4% auto
+	}
+	.eLernings .greatLearningDivInner {
+		margin-top: 12%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolL img {
+		margin: 5% 0 4% 0
+	}
+	.eLernings .DivLearning div p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.eLernings .DivLearning div .buttonDivLearning {
+		width: 100%;
+		line-height: 1.5;
+		font-size: 1em;
+		margin: 1% 0 9%;
+		padding: 4%
+	}
+	.cstmRow {
+		float: left;
+		text-align: initial
+	}
+	.learning-Top .ExpandingDiv .Expanding {
+		width: 91%;
+		margin-left: 8%;
+		font-size: 2em
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt {
+		background: #333;
+		width: 100%;
+		padding: 2% 4% 12%;
+		margin-top: 20%
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .greatLearningDivImgetxtH {
+		font-size: 1.2em
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-indicators {
+		bottom: -25%!important;
+		width: 50%
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-control-prev {
+		display: none
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-control-next {
+		display: none
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .greatLearningDivImgetxtP {
+		font-size: .9em;
+		margin-bottom: 0
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-control-next {
+		right: -3%;
+		bottom: -95%
+	}
+	.eLernings .greatLearningDivImge .greatLearningDivImgetxt .carousel-control-prev {
+		bottom: -95%;
+		left: 72%
+	}
+	.eLernings .caseStudyInner .caseStudyInnerText {
+		font-size: 3.7em;
+		line-height: .8;
+		margin-bottom: -6.8%;
+		margin-top: -.2%;
+		text-align: center
+	}
+	.eLernings .row.scrollrow.cstmRowCareer {
+		position: relative
+	}
+	.eLernings .caseStudy .greatLearningDivInner .scrollcolLH {
+		text-align: center!important;
+		font-size: 1.125em;
+		line-height: 2;
+		margin: 2%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolL {
+		position: absolute;
+		bottom: 0;
+		text-align: center
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		display: none
+	}
+	.eLernings .caseStudy .caseStudyInner .slidermoreRead {
+		display: none
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolL .scrollcolLP2 {
+		display: none
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolR {
+		position: unset
+	}
+	.eLernings .caseStudyInner .carousel-inner {
+		max-height: 100%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolR img {
+		padding: 0 4%;
+		width: 100%
+	}
+	.eLernings .caseStudy .caseStudyInner .cstmRowCareer .scrollcolR img {
+		margin-top: 0
+	}
+	.ourProduct .container-ourProduct-div {
+		padding-bottom: 13%
+	}
+	.ourProduct .appFeature {
+		padding: 10% 0 5%
+	}
+	.ourProduct .container-ourProduct-div .ourProductpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 1%;
+		margin-right: 0
+	}
+	.ourProduct .container-ourProduct-div .ourProductpdiv .ourProductpdivL .ourProductpdivH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.ourProduct .container-ourProduct-div .ourProductpdiv .ourProductpdivL .ourProductpdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important
+	}
+	.ourProduct .container-ourProduct-div .ourProductpdiv .ourProductpdivR img {
+		width: 100%;
+		margin-top: 0;
+		max-width: 100%;
+		margin-left: 0
+	}
+	.ourProduct .Producttalk2Xprt .Producttalk2XprtTxtTop .Producttalk2XprtTxtTopColR .Producttalk2XprtTxtTopColRInner {
+		background: 0 0!important;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-between
+	}
+	.ourProduct .Producttalk2Xprt .Producttalk2XprtTxtTop .Producttalk2XprtTxtTopColR .Producttalk2XprtTxtTopColRInner p {
+		width: 25%
+	}
+	.ourProduct .Producttalk2Xprt {
+		margin-top: -17!important
+	}
+	.ourProduct .platformScreen .platformScreenColHH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		margin-top: 5%
+	}
+	.ourProduct .platformScreen .platformScreenRow .platformScreenCol .platformScreenColP {
+		font-size: 1em
+	}
+	.ourProduct .appFeature .appFeatureH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.ourProduct .appFeature .appFeatureCol img {
+		width: 16.4%
+	}
+	.ourProduct .appFeature .appFeatureCol .appFeatureH {
+		font-size: 1.125em;
+		line-height: 1.67
+	}
+	.ourProduct .appFeature .appFeatureCol .appFeatureP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.ourProduct .productlastquote .productlastquoteInner {
+		width: 90%;
+		margin-right: 5%;
+		margin-left: 5%;
+		padding-top: 10%;
+		padding-bottom: 5%
+	}
+	.ourProduct .productlastquote .productlastquoteInner p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.ourProduct .Producttalk2Xprt .Producttalk2XprtTxtTop .Producttalk2XprtTxtTopColR .Producttalk2XprtTxtTopColRInner button {
+		margin-right: 3%;
+		width: 65%;
+		padding: 3% 4%
+	}
+	.col-md-6.appFeatureCol:nth-of-type(2) {
+		padding-top: 4%
+	}
+	.ourProduct .platformScreen .platformScreenRow .col-md-6.platformScreenCol {
+		padding-bottom: 3%
+	}
+	.hybrid .container-hybrid-div .svg1 .circle1,
+	.hybrid .container-hybrid-div .svg1 .circle2 {
+		display: none
+	}
+	.hybrid .container-hybrid-div .hybridApp {
+		width: 100%;
+		margin: auto;
+		margin-top: 2%
+	}
+	.hybrid .container-hybrid-div .hybridApp .hybridpdivL {
+		padding-left: 0!important
+	}
+	.hybrid .container-hybrid-div .hybridAppH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		text-align: center!important;
+		margin: 5% 7.5%
+	}
+	.hybrid .container-hybrid-div .HybridOutrel,
+	.hybrid .container-hybrid-div .hybridAppP {
+		font-family: Inter Regular;
+		font-size: 1em!important;
+		line-height: 1.75;
+		text-align: center!important;
+		margin: 5% 10%
+	}
+	.hybrid .container-hybrid-div .hybridApp .hybridpdivR img {
+		margin-top: 0;
+		height: unset;
+		margin-bottom: 12%;
+		width: auto
+	}
+	.hybrid .hybridblackdiv .container.containerBox {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%
+	}
+	.hybrid .hybridblackdiv .hybridDevlopTxt .hybridDevlopTxtTop .hybridDevlopTxtTopP1 {
+		line-height: 1.5
+	}
+	.hybrid .hybridblackdiv .hybridDevlopTxt .hybridDevlopTxtTop .hybridDevlopTxtTopColR .hybridDevlopTxtTopColRInner {
+		margin-top: 0;
+		background-image: none!important
+	}
+	.hybrid .hybridblackdiv .hybridDevlopTxt .hybridDevlopTxtTop .hybridDevlopTxtTopColR {
+		padding-top: 6%
+	}
+	.hybrid .hybridblackdiv .hybridDevlopTxt .hybridDevlopTxtTop .hybridDevlopTxtTopColR .hybridDevlopTxtTopColRInner p {
+		float: left;
+		display: inline;
+		width: 25%
+	}
+	.hybrid .hybridblackdiv .hybridDevlopTxt .hybridDevlopTxtTop .hybridDevlopTxtTopColR .hybridDevlopTxtTopColRInner button {
+		display: inline-block;
+		width: 75%;
+		padding: 4% 0;
+		vertical-align: text-top
+	}
+	.hybrid .hybridappDevlopTxtPhone {
+		width: 80%!important;
+		margin: 10% 10% 0 10%!important
+	}
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneL {
+		padding-right: 0;
+		padding-left: 0;
+		padding-top: 0
+	}
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneL img {
+		margin-bottom: 10%
+	}
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneR {
+		padding-right: 15px
+	}
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneR .RowHybridDevPhoneRH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		font-family: Inter Semi Bold
+	}
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneR .RowHybridDevPhoneRP,
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneR ul li p {
+		line-height: 1.5
+	}
+	.hybrid .hybridappDevlopTxtPhone .RowHybridDevPhone .RowHybridDevPhoneR .RowiosDevPhoneRH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		font-family: Inter Semi Bold
+	}
+	.hybrid .hybridblackdiv {
+		padding-bottom: 11.5%
+	}
+	.hybrid .hybridtechdiv.cstmRowCareer {
+		width: 100%!important;
+		margin: 0!important
+	}
+	.hybrid .hybridtechdiv {
+		padding: 12% 0
+	}
+	.hybrid .hybridtechdiv .hybridtechH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important
+	}
+	.hybrid .hybridtechdiv .hybridtechP {
+		font-size: 1em!important;
+		line-height: 1.5
+	}
+	.hybrid .hybridtechdiv .row1 .rowColImg {
+		width: 33.3%
+	}
+	.hybrid .hybridcasestydiv {
+		padding-bottom: 20%!important
+	}
+	.hybrid .hybridcasestydiv .hybridcasestytxt .hybridcasestyH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important
+	}
+	.hybrid .hybridcasestydiv .hybridcasestytxt .hybridcasestyHSpan {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.hybrid .hybridcasestydiv .hybridcasestytxt .hybridcasestyP1 {
+		line-height: 1.5
+	}
+	.hybrid .hybridcasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		font-size: 3.25em;
+		line-height: .8;
+		margin-bottom: 0!important
+	}
+	.hybrid .hybridcasestydiv .carousel-inner {
+		max-height: 100%
+	}
+	.hybrid .hybridcasestydiv .scrollrow {
+		position: relative
+	}
+	.hybrid .hybridcasestydiv .cstmRowCareer .scrollcolL {
+		position: absolute;
+		bottom: 0;
+		text-align: center
+	}
+	.hybrid .hybridcasestydiv .cstmRowCareer .scrollcolL .scrollcolLH {
+		font-size: 1.125em;
+		line-height: 2;
+		margin: 2%
+	}
+	.hybrid .hybridcasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		display: none
+	}
+	.hybrid .hybridcasestydiv .cstmRowCareer .slidermoreRead {
+		display: none
+	}
+	.hybrid .hybridcasestydiv .scrollcolR {
+		position: unset
+	}
+	.hybrid .hybridcasestydiv .cstmRowCareer .scrollcolR img {
+		margin-top: 0;
+		padding: 0 5%
+	}
+	.hybrid .hybridcasestydiv .carousel-indicators {
+		bottom: -14%
+	}
+	.hybrid .hybridmoreservice {
+		padding: 10% 0;
+		margin-bottom: 7%
+	}
+	.hybrid .cstmRowCareer {
+		width: 92%!important;
+		margin: 0 4%!important
+	}
+	.hybrid .hybridmoreservice .hybridsercolL .hybridsercolLH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		width: 97%;
+		margin: 0 0 6%
+	}
+	.hybrid .hybridmoreservice .hybridsercolL .hybridsercolLP {
+		display: none
+	}
+	.hybrid .hybridmoreservice .hybridsercolR .hybridsercolRInner {
+		padding: 1.2% 3.4% 6%;
+		margin-top: 0
+	}
+	.hybrid .hybridmoreservice .hybridsercolR .imgeclass {
+		display: none
+	}
+	.hybrid .hybridmoreservice .hybridsercolR .imgeclassHeadding {
+		display: none
+	}
+	.hybrid .hybridmoreservice .hybridsercolR .hybridservicecolRP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: .6rem
+	}
+	.hybrid .careerlast div p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.hybrid .careerlast div .btnQuote {
+		width: 100%;
+		line-height: 1.5;
+		font-size: 1em;
+		margin: 1% 0 9%
+	}
+	.iosmobile .circle1,
+	.iosmobile .circle2 {
+		display: none
+	}
+	.iosmobile .container-iosmobile-div {
+		padding-bottom: 4.5%!important
+	}
+	.iosmobile .container-iosmobile-div .iospdivH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		text-align: center!important;
+		margin: 5% 7.5%
+	}
+	.iosmobile .container-iosmobile-div .iospdiv {
+		width: 100%
+	}
+	.iosmobile .container-iosmobile-div .iospdiv .iospdivR img {
+		height: fit-content
+	}
+	@-moz-document url-prefix() {
+		.iosmobile .container-iosmobile-div .iospdiv .iospdivR img {
+			margin-top: -2%
+		}
+		.iosmobile .container-iosmobile-div {
+			padding-bottom: 13.5%!important
+		}
+	}
+	.iosmobile .container-iosmobile-div .iospdivP {
+		text-align: center!important;
+		font-size: 1em!important;
+		line-height: 1.75!important;
+		margin: 5% 6%
+	}
+	.iosmobile .container-iosmobile-div .outerul {
+		text-align: center!important;
+		font-size: 1em!important;
+		line-height: 1.75!important;
+		margin: 5% 10%
+	}
+	.iosmobile .iosappDevlop .container.containerBox {
+		width: 90%;
+		margin: auto
+	}
+	.iosmobile .iosappDevlop .iosappDevlopTxt .iosappDevlopTxtTop .iosappDevlopTxtTopColR .iosappDevlopTxtTopColRInner {
+		margin-top: 0;
+		background-image: none!important
+	}
+	.iosmobile .iosappDevlop .iosappDevlopTxt .iosappDevlopTxtTop .iosappDevlopTxtTopColR .iosappDevlopTxtTopColRInner p {
+		float: left;
+		display: inline;
+		width: 25%
+	}
+	.iosmobile .iosappDevlop .iosappDevlopTxt .iosappDevlopTxtTop .iosappDevlopTxtTopColR .iosappDevlopTxtTopColRInner button {
+		display: inline-block;
+		width: 75%;
+		padding: 4% 0;
+		vertical-align: text-top
+	}
+	.iosmobile .iosappDevlop .iosappDevlopTxt .iosappDevlopTxtTop .iosappDevlopTxtTopColL {
+		font-size: 1em!important;
+		line-height: 1.5!important
+	}
+	.iosmobile .iosappDevlopTxtPhone {
+		width: 90%;
+		margin: auto
+	}
+	.iosmobile .iosappDevlopTxtPhone .RowiosDevPhone .RowiosDevPhoneL img {
+		width: 85%;
+		margin-left: 7.5%;
+		margin-right: 7.5%
+	}
+	.iosmobile .iosappDevlopTxtPhone .RowiosDevPhone .RowiosDevPhoneR .RowiosDevPhoneRH {
+		font-size: 1.4em;
+		line-height: 1.42;
+		margin: 8% 0 5% 0
+	}
+	.iosmobile .iosappDevlopTxtPhone .RowiosDevPhone .RowiosDevPhoneR .RowiosDevPhoneRP {
+		line-height: 1.5
+	}
+	.iosmobile .ioswhychooseus .whychooseusHtop {
+		font-size: 1.2em;
+		line-height: 1.42;
+		margin: 5% 0
+	}
+	.iosmobile .ioswhychooseus .whychooseusPtop {
+		font-size: 1em;
+		line-height: 1.5;
+		text-align: left
+	}
+	.iosmobile .ioswhychooseus .whychooserowimg {
+		width: 100%;
+		margin-top: 10%!important
+	}
+	.ml-4,
+	.mx-4 {
+		margin-left: 0!important
+	}
+	.iosmobile .ioswhychooseus .whychooserowimg .card .whychoosetxtH {
+		margin-top: 5%;
+		font-size: 1.2em
+	}
+	.iosmobile .ioswhychooseus .whychooserowimg .card .whychoosetxtP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: 10%
+	}
+	.iosmobile .iostechlogodiv .iostechlogoH {
+		font-size: 1.4em
+	}
+	.iosmobile .iostechlogodiv .iostechlogoP {
+		font-size: 1em;
+		line-height: 1.5;
+		width: 100%
+	}
+	.iosmobile .iostechlogodiv {
+		padding: 5% 0 13%
+	}
+	.iosmobile .iostechlogodiv .row1 {
+		margin-top: 9%;
+		margin-bottom: 0
+	}
+	.iosmobile .iostechlogodiv .row1 .img2 {
+		margin-top: 5%;
+		margin-bottom: 5%
+	}
+	.iosmobile .iostechlogodiv .row1 .img4,
+	.iosmobile .iostechlogodiv .row1 .img5,
+	.iosmobile .iostechlogodiv .row1 .img6,
+	.iosmobile .iostechlogodiv .row2 .img7,
+	.iosmobile .iostechlogodiv .row2 .img8,
+	.iosmobile .iostechlogodiv .row2 .img9 {
+		margin: 24% 0 0
+	}
+	.iosmobile .iostechlogodiv .row1 .rowColImg,
+	.iosmobile .iostechlogodiv .row2 .rowColImg {
+		width: 33.3%
+	}
+	.iosmobile .ioscasestydiv .cstmRowCareer .scrollcolL,
+	.iosmobile .ioscasestydiv .scrollcolM,
+	.iosmobile .ioscasestydiv .scrollcolR {
+		position: relative;
+		max-width: 800px;
+		margin: 0 auto
+	}
+	.iosmobile .iosContentHeadding {
+		position: absolute;
+		bottom: 0;
+		background: #2083d2;
+		font-size: 1.2em;
+		font-family: Inter Semi Bold;
+		color: #f1f1f1;
+		width: 100%;
+		padding: 4%;
+		margin-bottom: 0
+	}
+	.iosmobile .ioscasestydiv .cstmRowCareer .scrollcolM img {
+		margin-bottom: 0;
+		margin-top: 0!important;
+		padding: 0 4%
+	}
+	.iosmobile .ioscasestydiv .ioscasestytxt .ioscasestyP2 {
+		font-size: 3.25em;
+		line-height: .8;
+		margin-bottom: 0;
+		margin-top: 2%;
+		margin-bottom: -5%
+	}
+	.iosmobile .ioscasestydiv .ioscasestytxt .ioscasestyH {
+		font-size: 1.4em;
+		line-height: 1.42
+	}
+	.iosmobile .ioscasestydiv .ioscasestytxt .ioscasestyH1 {
+		font-size: .9em;
+		line-height: 1.47
+	}
+	#iosCarousel .carousel-inner {
+		margin: 0
+	}
+	.iosmobile .ioscasestydiv .ioscasestytxt .ioscasestyP1 {
+		width: 100%
+	}
+	.pl-5,
+	.px-5 {
+		padding-left: 0!important;
+		padding-right: 0!important
+	}
+	.iosmobile .ioscasestydiv .cstmRowCareer .scrollcolL {
+		display: none
+	}
+	.iosmobile .iosmoreservice .iosmoresercolL .iosmoresercolLP {
+		padding-right: 0
+	}
+	.iosmobile .iosmoreservice .iosmoresercolR .iosmoresercolRInner {
+		margin-top: 1%
+	}
+	.iosmobile .careerlast div p {
+		font-size: 1.125em;
+		padding: 0 1% 0;
+		line-height: 1.78
+	}
+	.iosmobile .iosmoreservice .iosmoresercolL .iosmoresercolLH {
+		font-size: 1.4em;
+		line-height: 1.42;
+		margin-bottom: 6%
+	}
+	.iosmobile .iosmoreservice .iosmoresercolL .iosmoresercolLP {
+		display: none
+	}
+	.iosmobile .iosmoreservice .iosmoresercolR .iosimageclass {
+		display: none
+	}
+	.iosmobile .iosmoreservice .iosmoresercolR .iosmoresercolRH {
+		font-size: 1.2em;
+		line-height: 1.8
+	}
+	.iosmobile .iosmoreservice .iosmoresercolR .iosmoresercolRP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.iosmobile .iosmoreservice .iosmoresercolR .iosmoresercolRA {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.header .openbtn {
+		margin-left: 0
+	}
+	.container-top .pdiv {
+		background: 0 0;
+	}
+	.container-top .pdiv h1.p1 {
+		font-family: Inter Semi Bold;
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		width: 100%;
+		padding: 0 7%;
+		margin-top: 3rem;
+	}
+	.container-top .pdiv h1.p1 span {
+		font-size: unset;
+		padding: .3% 5%
+	}
+	.container-top .pdiv p:nth-of-type(1) span {
+		font-weight: Inter Semi Bold!important;
+		font-size: unset!important;
+		padding: 0;
+		color: #fff;
+		line-height: 1.42
+	}
+	.container-top .pdiv p.p2 {
+		width: 93%!important;
+		font-family: Inter Regular;
+		font-size: 1em!important;
+		padding: 0 7%;
+		line-height: 1.75
+	}
+	.container-top .pdiv p.p2 span {
+		font-family: Inter Regular
+	}
+	.container-top .pdiv p.p2 span::before {
+		content: "\A";
+		white-space: pre
+	}
+	.container-top .pdiv p:nth-of-type(3) {
+		display: block;
+		margin-top: 6%;
+		margin-bottom: 10%
+	}
+	.certifications_home .certificate_block {
+		padding: 4.4% 6%
+	}
+	.container-bottom .div1 .shortRow .whitecol {
+		margin: 3% 0;
+		padding: 0
+	}
+	.happy {
+		flex-direction: column-reverse
+	}
+	.happy .col-L {
+		background-size: 100% 100%!important;
+		width: 100%!important;
+		height: 345px!important;
+		align-items: flex-end;
+		z-index: 2;
+		padding-top: 3%;
+		padding-bottom: 3%;
+		justify-content: center
+	}
+	.happy .col-L h3 {
+		font-size: 2.3em!important;
+		white-space: nowrap!important;
+		margin: 1.5% 0!important;
+		font-family: Inter Bold;
+		color: #fff
+	}
+	.happy .col-L h3 span {
+		color: rgba(246, 246, 246, .5)
+	}
+	.happy .col-R .happyDivtop .happyp1 {
+		font-size: 1.5em!important;
+		line-height: 1.42!important;
+		text-align: center
+	}
+	.happyDivtop dt {
+		font-size: 2em;
+		line-height: 1.13;
+		font-family: Inter Semi Bold;
+		text-align: center
+	}
+	.happy .col-R .happyDivtop .happyp2 {
+		text-align: center;
+		font-size: 1em;
+		line-height: 1.75;
+		padding: 0 7%
+	}
+	.happy .col-R .happyGreenDiv {
+		position: absolute;
+		z-index: 9;
+		width: 96%;
+		height: 85px;
+		right: 0;
+		bottom: -17rem;
+		flex-direction: row-reverse
+	}
+	.happy .col-R .happyGreenDiv .happytenp {
+		font-size: 1em!important;
+		padding-left: 4%!important;
+		margin-bottom: 3%
+	}
+	.happy .col-R .happyGreenDiv .happytenp .happytenspan {
+		display: block;
+		font-size: 1.2em!important
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		width: 29%!important;
+		margin-right: 5%!important;
+		position: absolute;
+		bottom: 1%
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv h4 {
+		padding: 0;
+		line-height: 1.9;
+		font-family: Inter Semi Bold;
+		font-size: 1.2em;
+		text-align: center;
+		margin: 0
+	}
+	.threeboxdiv div p {
+		padding: 0;
+		font-size: .9em;
+		font-family: Inter Regular;
+		line-height: 1.57;
+		white-space: unset;
+		text-align: center
+	}
+	.div3 h3 {
+		display: none
+	}
+	.div3.excellence_section {
+		padding-top: 5%!important
+	}
+	.excellence_section .excellence_block1 {
+		margin: -10rem 0 0!important;
+		padding: 1.6rem 1rem 1rem!important
+	}
+	.excellence_section .excellence_block1 p {
+		line-height: 2;
+		font-size: 1em;
+		text-align: center
+	}
+	.excellence_section .excellence_block1 h1 {
+		font-size: 2em!important;
+		text-align: center;
+		margin-bottom: 0;
+		margin-top: 2%;
+		color: #fff
+	}
+	.excellence_section .excellence_block1 p:nth-of-type(2) {
+		font-family: Inter Semi Bold;
+		font-size: 1.6em;
+		line-height: 1.42
+	}
+	.excellence_section .excellence_block2 {
+		margin: -1rem 0 0!important;
+		padding: 1rem 1rem 1rem!important
+	}
+	.excellence_section .excellence_block2 p {
+		text-align: center;
+		padding-top: 1.5em;
+		line-height: 2.13;
+		font-family: Inter Regular;
+		font-size: 1em
+	}
+	.browse_btn button.browseServiceBtn {
+		display: none
+	}
+	.browse_btn button.browseServiceBtn.browseServiceBtnMobile {
+		display: block;
+		width: 100%!important;
+		margin: 0;
+		height: 55px
+	}
+	.browse_btn {
+		padding: 4% 0 10%!important
+	}
+	.overlayMainDiv {
+		display: none
+	}
+	.div3 .div32 .development_section {
+		padding-top: 5%!important
+	}
+	.div3 .div32 .development_section_L {
+		padding-left: 0;
+		padding-right: 0
+	}
+	.div3 .div32 .development_section .development_section_Web {
+		display: none
+	}
+	.div3 .div32 .development_section .development_section_Mobile {
+		display: block
+	}
+	.div3 .div32 .row .col .card {
+		margin: 0
+	}
+	.div3 .div32 .row .col .card .default {
+		display: flex!important;
+		flex-direction: row;
+		padding: 5%!important;
+		align-items: center
+	}
+	.div3 .div32 .row .col .card .default div {
+		text-align: left
+	}
+	.div3 .div32 .row .col .card .default .imgDiv {
+		width: 30%
+	}
+	.div3 .div32 .row .col .card .default .imgDiv img {
+		width: 55%
+	}
+	.div3 .div32 .row .col .card .hoverdiv {
+		display: block;
+		padding: 3% 4% 9%
+	}
+	.div3 .div32 .row .col .card .default p {
+		font-size: .8em!important
+	}
+	.div3 .div32 .row .col .card .default .imgDiv .mobiledev {
+		width: 38%;
+		margin-left: 12%
+	}
+	.div3 .div32 .row .col .card .default h5 {
+		padding-top: 0;
+		font-family: Inter Semi Bold;
+		font-size: 1.06em
+	}
+	.div3 .div32 .development_section .col {
+		flex-basis: 100%!important;
+		height: auto!important;
+		margin-bottom: 5%
+	}
+	.div3 .div32 .row .col .cardMobile .overlayMainDivMobile {
+		padding: 0;
+		display: none
+	}
+	.commentdiv {
+		background-size: 132% 86%, 122% 100%!important;
+		background-position: 76% 90px, 26% 0!important
+	}
+	.commentdiv .commentdivInner {
+		margin-right: 0!important;
+		margin-left: 4%
+	}
+	.commentdiv .commentdivInner h3 {
+		display: none
+	}
+	.commentdiv .commentdivInner .cmntP1 {
+		font-size: 1.5em!important;
+		padding: 0 12%;
+		text-align: center;
+		line-height: 1.42;
+		font-family: Inter Semi Bold;
+		margin-right: 3%
+	}
+	.commentdiv .commentdivInner .cmntPSpan {
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1.39;
+		margin-right: 3%
+	}
+	.commentdiv .commentdivInner .cmntP2 {
+		width: 100%;
+		text-align: center;
+		margin-top: 7%;
+		line-height: 2.13;
+		padding-right: 8%;
+		padding-left: 8%;
+		font-size: 1em
+	}
+	.commentdiv .commentdivInner .cmntP2 span {
+		display: inline-block
+	}
+	.commentdiv .commentSlider {
+		margin-top: 55%
+	}
+	.cstmRowBackground {
+		padding: 28% 0 6%!important
+	}
+	.firstDivContent {
+		line-height: 1.42;
+		font-size: 1.6em!important;
+		text-align: center
+	}
+	.firstDivContentSpan {
+		font-family: Inter Medium;
+		font-size: 1.3em;
+		display: block;
+		line-height: 1.25
+	}
+	.firstDivHeight {
+		font-family: Inter Regular;
+		font-size: 1.1em;
+		line-height: 2.13;
+		padding: 0 5%
+	}
+	.cstmRowCol2Headding2 {
+		font-size: 5em!important;
+		margin-top: 4%!important
+	}
+	.cstmRow.creative_slider .carousel-control-next,
+	.cstmRow.creative_slider .carousel-control-prev {
+		display: none
+	}
+	.thirdDiv {
+		padding-bottom: 5%
+	}
+	.thirdDivHeading {
+		font-size: 1.5em!important;
+		line-height: 1.42;
+		padding: 0 7%;
+		margin-bottom: 0;
+		text-align: center
+	}
+	.thirdDivPara {
+		font-size: 2em!important;
+		line-height: 1.25;
+		padding: 0 4%;
+		text-align: center
+	}
+	.thirdDivh6 {
+		font-family: Inter Regular;
+		font-size: 1.1em;
+		line-height: 2.13;
+		color: #616161;
+		padding: 0 15%;
+		text-align: center
+	}
+	.creative-img-slide .owl-item.active+.owl-item.active img:last-child {
+		opacity: .2
+	}
+	.creative-img-slide .carousel-control-next,
+	.creative-img-slide .carousel-control-prev {
+		display: none
+	}
+	.creative-img-slide {
+		width: 98%;
+		margin-left: 2%;
+		margin-top: 2%
+	}
+	.divButton {
+		padding-right: 0
+	}
+	section.customer-logos.slider.wow.slideInRight {
+		padding: 0 5%;
+		text-align: center;
+		display: block
+	}
+	.customer-logos .img1 {
+		width: 26%!important
+	}
+	.customer-logos .img2 {
+		width: 30%!important;
+		margin: 0 10%
+	}
+	.customer-logos .img3 {
+		width: 15%!important
+	}
+	.customer-logos .img4 {
+		width: 17%!important
+	}
+	.customer-logos .img5 {
+		width: 29.6%!important;
+		margin: 0 7%
+	}
+	.customer-logos .img6 {
+		width: 18.8%!important
+	}
+	.indexpartnerDiv {
+		margin-left: 0;
+		margin-right: 0;
+		margin-top: 30%;
+		width: 100%;
+		padding-top: 37%;
+		background-size: 100% 42%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 28vw!important;
+		width: 70%!important;
+		flex-wrap: nowrap
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .directories button,
+	.indexpartnerDiv .indexprtnrinnerdiv1 .partners button {
+		font-size: .9em!important;
+		padding: 45% 2% 10%!important;
+		font-family: Inter Regular
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 {
+		width: 88%!important;
+		margin: 0 6%!important;
+		margin-top: -10%!important
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP1 {
+		margin-top: 12%;
+		line-height: 1.33;
+		padding: 0 7%;
+		font-size: 1.125em!important
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP2 {
+		font-size: 1em;
+		font-family: Inter Regular;
+		line-height: 1.57;
+		padding: 0 7%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 25%!important;
+		margin-bottom: 5%;
+		margin-right: 5%
+	}
+	.footer-contact-section {
+		margin-top: 30%
+	}
+	.footer-contact-section .IndexContactImg {
+		height: 460px!important
+	}
+	.footer-contact-section .myForm {
+		width: 90%!important;
+		margin-left: 5%!important;
+		padding: 2% 5% 10% 5%!important;
+		margin-bottom: 10%!important;
+		margin-top: -48%
+	}
+	.lastSectionDiv .myForm .pshare {
+		line-height: 1.57;
+		margin-bottom: 8%
+	}
+	.lastSectionDiv .myForm .Contact-Us {
+		margin-bottom: 4%
+	}
+	.lastSectionDiv .myForm .frminput {
+		padding: 4%;
+		margin-bottom: 5%;
+		font-size: 1em;
+		width: 100%
+	}
+	.customCheckbox {
+		margin: 2% 0 4%;
+    font-size: 14px;
+	}
+	.lastSectionDiv .myForm .captchadiv {
+		width: 100%;
+		margin-bottom: 14%
+	}
+	.svg1 {
+		display: none
+	}
+	.container-port-details {
+		padding-bottom: 18%
+	}
+	.portfolio-details .container-port-details .folio-top-content {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 1%
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-top-contentL {
+		align-items: center
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-top-contentL .folio-top-contentH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-top-contentL .folio-top-contentP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-topRow {
+		margin: 0;
+		width: 100%
+	}
+	.portfolio-details .Portf-yellodivDiv .Portf-yellodivDivL .Portf-yellodivDivLH {
+		font-family: Inter Semi Bold;
+		font-size: 20px;
+		line-height: 1.9
+	}
+	.portfolio-details .Portf-yellodivDiv .Portf-yellodivDivL .Portf-yellodivDivLP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.portfolio-details .Portf-yellodivDiv .Portf-yellodivDivR img {
+		width: 100%;
+		margin-right: 5%
+	}
+	.portfolio-details .Pdetailresult {
+		padding: 7% 0 10%
+	}
+	.portfolio-details .mobileImage {
+		margin-top: 30%!important;
+		margin: 30% 0 0 0!important;
+		width: 100%!important
+	}
+	.portfolio-details .technologydiv .technologydivRow .col-md-2 {
+		margin: auto;
+		width: 33.3%!important
+	}
+	.portfolio-details .Pdetailresult .PdetailresultH,
+	.portfolio-details .cstmGets .cstmGetsH,
+	.portfolio-details .projOverview .projOverviewH,
+	.portfolio-details .wtwedid .wtwedidH {
+		line-height: 1.42;
+		margin-bottom: 6%
+	}
+	.portfolio-details .Pdetailresult .PdetailresultP,
+	.portfolio-details .projOverview .projOverviewP {
+		color: #616161
+	}
+	.portfolio-details .Pdetailresult .row .PdetailresultColL .PdetailresultUL li p,
+	.portfolio-details .cstmGets .cstmGetsRow .cstmGetsCol .cstmGetsP,
+	.portfolio-details .wtwedid .wtwedidRow .wtwedidcol .wtwedidcolP {
+		color: #616161;
+		width: 84%
+	}
+	.portfolio-details .cstmGets .cstmGetsRow .cstmGetsCol .doneicon,
+	.portfolio-details .wtwedid .wtwedidRow .wtwedidcol .doneicon {
+		width: 15%
+	}
+	.portfolio-details .Pdetailresult .row .PdetailresultColL .PdetailresultUL li i.fa {
+		margin-right: 5%
+	}
+	.portfolio-details .Pdetailresult .row .PdetailresultColR img {
+		height: auto;
+		margin-top: 0
+	}
+	.portfolio-details .Pdetailresult .row .PdetailresultColR {
+		text-align: center
+	}
+	.portfolio-details .technologydiv .technologydivRow {
+		margin: auto!important
+	}
+	.container-career {
+		padding-bottom: 13%
+	}
+	.container-career .Careerpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 2%;
+		margin-right: 0;
+		text-align: center
+	}
+	.career .container-career .Careerpdiv .CareerpdivL {
+		padding: 0 15px
+	}
+	.container-career .Careerpdiv .Careerp1 {
+		font-size: 1.5em!important;
+		line-height: 1.42!important;
+		text-align: center!important
+	}
+	.container-career .Careerpdiv .careerp2 {
+		line-height: 1.75!important;
+		font-family: Inter Medium!important;
+		font-size: 1em!important;
+		text-align: center!important
+	}
+	.career .container-career .Careerpdiv .CareerpdivR img {
+		margin-top: 0
+	}
+	.career .whyTriTxt .whyTriH {
+		font-size: 1.25em;
+		line-height: 1.9
+	}
+	.career .whyTriTxt .whytriP1 {
+		line-height: 1.5
+	}
+	.career .careerWrkCulture .wrkcolRH,
+	.careerOpportunities .opportunitiesH {
+		font-size: 1.5em;
+		text-align: left
+	}
+	.careerOpportunities .opportunitiesdiv .headingul {
+		font-size: .9em;
+		font-family: Inter Regular
+	}
+	.careerOpportunities .hybridul .hybridli .hybridlidiv .hybridresponul li .fa,
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .netresponul li .fa,
+	.careerOpportunities .phpul .phpli .phplidiv .phpresponul li .fa,
+	.careerOpportunities .uiul .uili .uilidiv .uiresponul li .fa {
+		margin-top: 2%
+	}
+	.careerOpportunities .hybridul .hybridli .hybridlidiv .hybridresponul li p,
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .netresponul li p,
+	.careerOpportunities .phpul .phpli .phplidiv .phpresponul li p,
+	.careerOpportunities .uiul .uili .uilidiv .uiresponul li p {
+		margin-left: 3%
+	}
+	.careerOpportunities .opportunitiesdiv .careerapplyform button.btnCommon.send-cv {
+		width: 50%
+	}
+	.career .careerWrkCulture .row {
+		width: 100%;
+		margin-right: 0
+	}
+	.career .careerWrkCulture .row .col-md-6 {
+		padding: 0
+	}
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .locationul,
+	.hybridul .hybridli .hybridlidiv .locationul,
+	.phpul .phpli .phplidiv .locationul,
+	.uiul .uili .uilidiv .locationul {
+		flex-direction: column
+	}
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .locationul li,
+	.hybridul .hybridli .hybridlidiv .locationul li,
+	.phpul .phpli .phplidiv .locationul li,
+	.uiul .uili .uilidiv .locationul li {
+		width: 100%;
+		justify-content: flex-start;
+		flex-direction: column
+	}
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .locationul li span,
+	.hybridul .hybridli .hybridlidiv .locationul li span,
+	.phpul .phpli .phplidiv .locationul li span,
+	.uiul .uili .uilidiv .locationul li span {
+		display: none
+	}
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .locationul li p,
+	.hybridul .hybridli .hybridlidiv .locationul li p,
+	.phpul .phpli .phplidiv .locationul li p,
+	.uiul .uili .uilidiv .locationul li p {
+		margin: 0;
+		line-height: 1.75
+	}
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .btngreen,
+	.hybridul .hybridli .hybridlidiv .btngreen,
+	.phpul .phpli .phplidiv .btngreen,
+	.uiul .uili .uilidiv .btngreen {
+		width: 50%
+	}
+	.careerOpportunities .opportunitiesdiv .careerapplyform form input[type=submit] {
+		width: 50%
+	}
+	.careerlast div p {
+		padding: 0
+	}
+	.careerlast div .btnQuote {
+		width: 100%;
+		padding: 5% 0
+	}
+	.container-blog.parallax {
+		padding-bottom: 13%
+	}
+	.container-blog .blogpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 2%;
+		margin-right: 0;
+		text-align: center
+	}
+	.blog .container-blog .blogpdiv .blogpdivL .blogH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.blog .container-blog .blogpdiv .blogpdivL .blogP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em
+	}
+	.blog .container-blog .blogpdiv .blogpdivR img {
+		margin-top: 0
+	}
+	.blogdivTxt .blogdivP1 {
+		line-height: 1.5;
+		color: #616161;
+		padding-right: 3%;
+		padding-top: 4%
+	}
+	.blog .blogdivTxt {
+		margin-bottom: 11%!important
+	}
+	.blog .blogRightDrawer {
+		display: block;
+		padding: 0 5%
+	}
+	.blog .blogRightDrawer .featurCol3Mobile {
+		margin-top: 5%
+	}
+	.blog .blogRightDrawer .featurCol3Mobile input {
+		background: url(../img/search.png) no-repeat;
+		background-position: 95%;
+		background-size: 6%;
+		width: 100%;
+		font-size: 1em;
+		font-family: Inter Regular;
+		color: #333;
+		padding: 1% 7%;
+		height: 40px;
+		border: 1px solid #e5e5e5;
+		background-color: #f6f6f6
+	}
+	.blog .blogRightDrawer .featurCol3Mobile .featurCol3H {
+		font-family: Inter Medium;
+		font-size: 1.125em;
+		margin: 4% 0;
+		color: #333
+	}
+	.blog .blogRightDrawer .featurCol3Mobile p {
+		padding-right: 5%
+	}
+	.blog .blogRightDrawer .featurCol3Mobile p a {
+		font-family: Inter Regular;
+		font-size: 1em;
+		font-weight: 400;
+		line-height: 1.5;
+		color: #257bc0;
+		outline: 0
+	}
+	.blog .blogRightDrawer .featurCol3Mobile .col3ul1,
+	.blog .blogRightDrawer .featurCol3Mobile .col3ul2 {
+		font-family: Inter Medium;
+		font-size: 1.125em;
+		list-style-type: none;
+		line-height: 1.5;
+		color: #333;
+		padding-left: 0
+	}
+	.blog .blogRightDrawer .featurCol3Mobile .col3ul1 li,
+	.col3ul2 li {
+		font-family: Inter Regular;
+		font-size: .9em;
+		line-height: 1.5;
+		color: #257bc0;
+		margin: 3% 0 0
+	}
+	.blog .blogRightDrawer .featurCol3Mobile .col3ul1 li span {
+		background-color: rgba(37, 123, 192, .36);
+		padding: 1% 3%;
+		margin-left: 5%;
+		color: #333;
+		font-size: 1em
+	}
+	.blogfeatur .blogfeaturH {
+		margin-bottom: 5%
+	}
+	.blog .blogfeatur {
+		width: 90%!important;
+		margin: 5% 5%!important
+	}
+	.blog .bloglatest {
+		width: 90%!important;
+		margin: 15% 5% 5%!important
+	}
+	.blogfeatur .blogfeaturrow .featurCol2 .featurCol2P1,
+	.blogfeatur .blogfeaturrow .featurCol2 .featurCol2P2,
+	.bloglatest .bloglatestrow .bloglatestcol1 .card p:nth-of-type(1),
+	.bloglatestcol2 .card p:nth-of-type(1) {
+		padding-right: 3%
+	}
+	.blogfeatur .blogfeaturrow .featurCol2 .featurecol2btn {
+		width: 100%
+	}
+	.blog .blogfeatur .blogfeaturrow .featurCol2,
+	.blog .bloglatest .bloglatestrow .bloglatestcol1,
+	.bloglatestcol2 {
+		padding: 15px
+	}
+	.bloglatest .bloglatestrow .bloglatestcol1 .card p:nth-of-type(3),
+	.bloglatestcol2 .card p:nth-of-type(3) {
+		margin-top: -2%;
+		margin-bottom: 0
+	}
+	.careerlast div p {
+		font-size: 1.125em;
+		padding: 0
+	}
+	.blog .bloglatest .bloglatestrow .bloglatestcol3,
+	.blogfeatur .blogfeaturrow .featurCol3 {
+		display: none
+	}
+	.careerlast div .btnQuote {
+		width: 100%;
+		margin-bottom: 9%
+	}
+	.Web .circle1,
+	.Web .circle2 {
+		display: none
+	}
+	.Web .container-Web-Div {
+		padding-bottom: 13.5%!important
+	}
+	.Web .container-Web-Div .webpdiv {
+		width: 100%;
+		margin: auto
+	}
+	.Web .container-Web-Div .webpdiv .webpdivL {
+		padding-left: 0!important
+	}
+	.Web .container-Web-Div .webpdivH {
+		font-size: 1.5em!important;
+    text-align: center!important;
+    margin: 11% 0% 5%;
+	}
+	.Web .container-Web-Div .webpdivP {
+		text-align: center!important;
+    margin: 5% 0%;
+	}
+	.Web .container-Web-Div .webpdiv .col-md-6 img {
+		height: fit-content;
+		width: 100%;
+		margin-top: -10%
+	}
+	.Web .webappDevlop .container.containerBox {
+		width: 80%;
+		margin-left: 10%;
+		margin-right: 10%
+	}
+	.Web .webappDevlop .webappDevlopTxt .webAppDevTopCol .webappDevlopTxtTopP1,
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopP1 {
+		line-height: 1.5
+	}
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopColR .webappDevlopTxtTopColRInner {
+		background-image: none!important
+	}
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopColR {
+		padding-top: 6%
+	}
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopColR .webappDevlopTxtTopColRInner p {
+		float: left;
+		display: inline;
+		width: 25%
+	}
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopColR .webappDevlopTxtTopColRInner button {
+		display: inline-block;
+		width: 75%;
+		height: auto;
+		padding: 4% 0;
+		vertical-align: text-top
+	}
+	.Web .webappDevlopTxtPhone {
+		width: 80%!important;
+		margin: 10% 10% 0 10%;
+		display: flex;
+    flex-direction: column-reverse;
+	}
+	.row.webappDevlopTxtPhone.flex-direction {
+    flex-direction: column;
+}
+.bg-light.for-display .webappDevlopTxtPhone {
+    flex-direction: column;
+}
+
+	.Web .webappDevlopTxtPhone .RowWebDevPhone .RowWebDevPhoneL img {
+		margin-bottom: 10%
+	}
+	.Web .webappDevlopTxtPhone .RowWebDevPhone .RowWebDevPhoneR .RowWebDevPhoneRH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		font-family: Inter Semi Bold
+	}
+	.Web .webappDevlopTxtPhone .RowWebDevPhone .RowWebDevPhoneR .RowWebDevPhoneRP,
+	.Web .webappDevlopTxtPhone .RowWebDevPhone .RowWebDevPhoneR .RowWebDevPhoneRPStle,
+	.Web .webappDevlopTxtPhone .RowWebDevPhone .RowWebDevPhoneR ul li p {
+		line-height: 1.5
+	}
+	.Web .webappDevlop {
+		padding-bottom: 11.5%
+	}
+	.Web .WebTechnologyDiv {
+		padding: 12% 0
+	}
+	.Web .WebTechnologyDiv .WebTechnologyHeadding {
+		font-size: 1.2em!important;
+    line-height: 1.42!important;
+    padding: 0 7%;
+	}
+	.Web .WebTechnologyDiv .WebTechnologyPara {
+		font-size: 1em!important;
+		line-height: 1.5
+	}
+	.Web .WebTechnologyDiv .row1Slider .col-md-3 {
+		margin: auto;
+		width: 25%!important
+	}
+	.Web .ourProcess {
+		padding-bottom: 12%
+	}
+	.Web .ourProcess .ourProcessHeadding {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		width: 93%;
+		margin: 0 auto 6%
+	}
+	.Web .ourProcess .ourProcessPara {
+		line-height: 1.5;
+		text-align: -webkit-auto;
+		padding: 0 3%
+	}
+	.Web .ourProcessBG .devProcessSteps .Steps {
+		font-size: .7em
+	}
+	.Web .ourProcessBG .devProcessSteps .secondStep {
+		top: .5%;
+		left: 35%
+	}
+	.Web .ourProcessBG .devProcessSteps .thirdStep {
+		top: 5%;
+		right: 17%
+	}
+	.Web .ourProcessBG .devProcessSteps .fourthStep {
+		bottom: 41%;
+		right: 2%
+	}
+	.Web .ourProcessBG .devProcessSteps .fivethStep {
+		bottom: 9%;
+		right: 10%
+	}
+	.Web .ourProcessBG .devProcessSteps .sixthStep {
+		bottom: 0;
+		left: 34%
+	}
+	.Web .ourProcessBG .devProcessSteps .seventhStep {
+		bottom: 20%;
+		left: 6%
+	}
+	.Web .DevelopmentServiceHeadding {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		width: 90%;
+		margin: 0 auto 6%
+	}
+	.Web .DevelopmentServicePara {
+		font-size: 1em;
+		line-height: 1.5;
+		padding: 0 3%
+	}
+	.Web .DevelopmentServiceWholeDiv .containerDiv .containerDivRow {
+		margin-top: 10%
+	}
+	.Web .DevelopmentServiceWholeDiv .containerDiv .containerDivCol {
+		padding-right: 0;
+		padding-left: 0
+	}
+	.Web .serviceRowColLeftHeadding {
+		font-size: 1.125em;
+		margin-top: 5%
+	}
+	.Web .serviceRowColLeftPara {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: 10%
+	}
+	.Web .webmoreservice {
+		padding: 10% 0;
+		margin-bottom: 7%
+	}
+	.Web .webmoreservice .webmoresercolL .webmoresercolLH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		width: 97%;
+		margin: 0 0 6%
+	}
+	.Web .webmoreservice .webmoresercolL .webmoresercolLP {
+		display: none
+	}
+	.Web .webmoreservice .webmoresercolR .webmoresercolRInner {
+		padding: 1.2% 3.4% 6%
+	}
+	.Web .webmoreservice .webmoresercolR .webmoresercolRInner .imgeclass {
+		display: none
+	}
+	.Web .webmoreservice .webmoresercolR .ImgBackgrndColor {
+		display: none
+	}
+	.Web .webmoreservice .webmoresercolR .webmoresercolRH {
+		padding: 4% 5% 0
+	}
+	.Web .webmoreservice .webmoresercolR .webmoresercolRP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: .6rem
+	}
+	.careerlast div p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.careerlast div .btnQuote {
+		line-height: 1.5;
+		font-size: 1em;
+		margin: 1% 0 9%
+	}
+	.androiddevlop .container-androidevlop-div .andtabdivH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		text-align: center!important;
+		margin: 1% 4%
+	}
+	.androiddevlop .container-androidevlop-div .androidiv {
+		margin-top: 0!important;
+		width: 100%
+	}
+	.androiddevlop .container-androidevlop-div .androidiv .col-md-6 img {
+		width: 100%!important;
+		margin-top: 0!important;
+		margin-bottom: 15%!important
+	}
+	.androiddevlop .container-androidevlop-div .andrpdivP {
+		font-family: Inter Regular;
+		font-size: 1em!important;
+		line-height: 1.75;
+		text-align: center!important;
+		margin: 2% 3%
+	}
+	.androiddevlop .container-androidevlop-div .outerullist {
+		font-size: 1em!important;
+		margin: 3% 9%!important;
+		line-height: 1.75
+	}
+	.androiddevlop .container-androidevlop-div .androidiv .androidpdivL {
+		padding-top: 2%!important
+	}
+	.androiddevlop .androidappDevlop .container.containerBox {
+		width: 90%;
+		margin: auto
+	}
+	.androiddevlop .androidappDevlop {
+		padding-bottom: 11.5%
+	}
+	.androiddevlop .androidappDevlop .androidappDevloptext .androidappDevlopTxtTop .androdappDevlopTopTxtP1 {
+		line-height: 1.6
+	}
+	.androiddevlop .androidappDevlop .androidappDevloptext .androidappDevlopTxtTop .androidDevlopTxtTopColR .iosappDevlopTxtTopColRInner {
+		margin-top: 0;
+		background-image: none!important
+	}
+	.androiddevlop .androidappDevlop .androidappDevloptext .androidappDevlopTxtTop .androidDevlopTxtTopColR {
+		padding-top: 6%
+	}
+	.androiddevlop .androidappDevlop .androidappDevloptext .androidappDevlopTxtTop .androidDevlopTxtTopColR .iosappDevlopTxtTopColRInner p {
+		float: left;
+		display: inline;
+		width: 25%
+	}
+	.androiddevlop .androidappDevlop .androidappDevloptext {
+		padding: 5.6% 0 4.2% 2.6%
+	}
+	.androiddevlop .androidappDevlop .androidappDevloptext .androidappDevlopTxtTop .androidDevlopTxtTopColR .iosappDevlopTxtTopColRInner button {
+		display: inline-block;
+		width: 72%;
+		padding: 3% 0;
+		vertical-align: text-top
+	}
+	.androiddevlop .androidappDevlopblk {
+		width: 80%!important;
+		margin: 10% 10% 0 10%!important;
+		padding: 0
+	}
+	.androiddevlop .androidappDevlopblk .RowandoidDevblock .RowandDevPhoneL {
+		padding-right: 0;
+		padding-left: 0;
+		padding-top: 0
+	}
+	.androiddevlop .androidappDevlopblk .RowandoidDevblock {
+		margin-left: 2%
+	}
+	.androiddevlop .androidappDevlopblk .RowandoidDevblock .RowandDevPhoneL img {
+		margin-bottom: 10%;
+		margin-top: 12%
+	}
+	.androiddevlop .androidappDevlopblk .RowandoidDevblock .RowandDevPhonsR {
+		padding-right: 15px
+	}
+	.androiddevlop .androidappDevlopblk .RowandoidDevblock .RowandDevPhonsR .RowanddroidsDevheadRH {
+		font-size: 1.4em!important;
+		line-height: 1.42!important;
+		font-family: Inter Semi Bold
+	}
+	.androiddevlop .androidappDevlopblk .RowandoidDevblock .RowandDevPhonsR .RowanddroidsDevheadRP {
+		line-height: 1.5
+	}
+	.svg1 {
+		display: none
+	}
+	.androiddevlop .andiodwhychooseublk {
+		margin-top: 7%;
+		padding: 6% 5.4% 10%
+	}
+	.androiddevlop .andiodwhychooseublk .whychooseusHtoptext {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.androiddevlop .andiodwhychooseublk .whychooseusPtoptxt {
+		font-size: 1em;
+		line-height: 1.5;
+		text-align: initial!important;
+		padding: 0 3%;
+		margin-bottom: 2.5em!important
+	}
+	.androiddevlop .andiodwhychooseublk .whychooserowtxtdata .card .whychoosetxtH {
+		font-size: 1.125em;
+		line-height: 1.67;
+		margin-top: 6%
+	}
+	.androiddevlop .andiodwhychooseublk .whychooserowtxtdata .card .whychoosetxtP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: 10%;
+		padding: 0!important
+	}
+	.androiddevlop .androidtechlogodivBlock {
+		width: 100%!important;
+		margin: 0!important;
+		padding: 12% 0
+	}
+	.androiddevlop .androidtechlogodivBlock .anddtechlogoHeader {
+		font-size: 1.5em!important;
+		line-height: 1.42!important
+	}
+	.androiddevlop .androidtechlogodivBlock .anddtechlogoPtext {
+		line-height: 1.5;
+		font-size: 1em;
+		color: #616161
+	}
+	.androiddevlop .androidtechlogodivBlock .row1 {
+		margin: 5.5% 0
+	}
+	.androiddevlop .androidtechlogodivBlock .row1 .rowColImg,
+	.androiddevlop .androidtechlogodivBlock .row2 .rowColImg {
+		width: 33.3%;
+		margin: auto 0
+	}
+	.androiddevlop .androidtechlogodivBlock .row1 .rowColImg img {
+		width: 100%!important
+	}
+	.androiddevlop .anndroidcasestydblk {
+		padding-top: 6%
+	}
+	.androiddevlop .anndroidcasestydblk .andrroicasestytxxt .andcasestyH {
+		font-size: 1.5em!important;
+		line-height: 1.42!important
+	}
+	.androiddevlop .anndroidcasestydblk .andrroicasestytxxt .andcasestyH1 {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.androiddevlop .anndroidcasestydblk .andrroicasestytxxt .andcasestyP1 {
+		line-height: 1.5
+	}
+	.androiddevlop .anndroidcasestydblk .andrroicasestytxxt .andcasestyP2 {
+		font-size: 3.7em;
+		line-height: .8;
+		margin-bottom: 0;
+		margin-top: 4%
+	}
+	.androiddevlop .cstmRowCareer {
+		width: 92%!important;
+		margin: 0 4%!important
+	}
+	.androiddevlop .anndroidcasestydblk .carousel-inner {
+		max-height: 100%
+	}
+	.androiddevlop .anndroidcasestydblk .carousel-indicators {
+		bottom: -13%
+	}
+	.androiddevlop .anndroidcasestydblk .scrollrow {
+		position: relative
+	}
+	.androiddevlop .anndroidcasestydblk .cstmRowCareer .scrollcolL {
+		position: absolute;
+		bottom: 0;
+		text-align: center
+	}
+	.androiddevlop .anndroidcasestydblk .cstmRowCareer .scrollcolL .scrollcolLH {
+		font-size: 1.125em;
+		line-height: 2;
+		margin: 2%;
+		text-align: center
+	}
+	.androiddevlop .anndroidcasestydblk .cstmRowCareer .scrollcolL .scrollcolLP {
+		display: none
+	}
+	.androiddevlop .anndroidcasestydblk .cstmRowCareer .slidermoreRead {
+		display: none
+	}
+	.androiddevlop .anndroidcasestydblk .cstmRowCareer .scrollcolRRR {
+		position: unset
+	}
+	.androiddevlop .anndroidcasestydblk .cstmRowCareer .scrollcolRRR img {
+		margin-bottom: 14%;
+		margin-top: 5%;
+		height: 38vh!important;
+		width: auto
+	}
+	.androiddevlop .andmoreservicedata {
+		padding: 10% 0;
+		margin-bottom: 7%
+	}
+	.androiddevlop .andmoreservicedata .andromoresercolL .andrmoresercolLH {
+		font-size: 1.5em!important;
+		line-height: 1.42!important;
+		width: 97%;
+		margin: 0 0 6%
+	}
+	.androiddevlop .andmoreservicedata .andromoresercolL .andrmoresercolLP {
+		display: none
+	}
+	.androiddevlop .andmoreservicedata .andrmoresercolR .anddrmoresercolRInner {
+		padding: 1.2% 3.4% 6%;
+		margin-top: 0
+	}
+	.androiddevlop .andmoreservicedata .anddrmoresercolRInner .serviceimg {
+		display: none
+	}
+	.androiddevlop .andmoreservicedata .anddrmoresercolRInner .serviceimg .androidmoreheader {
+		display: none
+	}
+	.androiddevlop .andmoreservicedata .andrmoresercolR .andmoresercolRP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: .6rem
+	}
+	.androiddevlop .careerlast div p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.androiddevlop .careerlast div .btnQuote {
+		width: 100%;
+		line-height: 1.5;
+		font-size: 1em;
+		margin: 1% 0 9%
+	}
+	.cstmRow {
+		width: 100%!important;
+		margin: 0 0!important
+	}
+	.container-top .pdiv p:nth-of-type(1) {
+		font-size: 6.3vw;
+		width: 100%
+	}
+	.container-top .pdiv p:nth-of-type(1) span {
+		font-size: 6.3vw
+	}
+	.container-top .pdiv p:nth-of-type(2) {
+		width: 100%;
+		font-size: 1em
+	}
+	.container-bottom .div1 .shortRow {
+		width: 100%;
+		margin-top: -10%
+	}
+	/* .container-top {
+		padding-top: 30%!important
+	} */
+	.header.active .row .col-md-4:nth-of-type(2) {
+		width: 60%;
+		justify-content: flex-start;
+		padding-left: 0
+	}
+	.header.active .row .col-md-4 img.Logo-stycky {
+		width: 66%;
+		margin-top: -10px
+	}
+	nav.navbar.navbar-expand-md.header.only-landingpage .Logo-1 {
+		margin-top: -97%!important;
+	}
+	.Logo-1 {
+		width: 168px!important;
+		height: 132px!important;
+		margin-top: -43%!important;
+		margin-left: 0%!important
+	}
+	.navbar-brand {
+    margin-right: 0rem !important;
+}
+	img.Logo-1.logo_nav {
+		display: block!important;
+		margin-left: 0!important;
+		margin-top: -66%!important
+	}
+	.header.active a.navbar-brand {
+		padding-left: 0!important
+	}
+	.header.active img.Logo-1.logo_nav {
+		margin-top: -41%!important
+	}
+	.happy .col-L {
+		background-size: 91% 100%;
+		width: 100%;
+		height: 434px
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		width: 94%;
+		margin-right: 4%;
+		margin-top: -12%
+	}
+	.happy .col-R .happyGreenDiv .happytenp .happytenspan {
+		margin-left: 3%
+	}
+	.happy .col-L {
+		z-index: 2;
+		padding-top: 3%;
+		padding-bottom: 3%;
+		justify-content: center
+	}
+	.happy .col-L h3 {
+		font-size: 2em;
+		margin-left: 0;
+		margin-bottom: 0
+	}
+	.happy .col-R .happyGreenDiv {
+		margin-left: 0
+	}
+	.happy .col-R .happyGreenDiv .happytenp .happytenspan {
+		font-size: 1.8em
+	}
+	.div3 .div32 .maindiv3p .div3p1 {
+		margin-top: 76%
+	}
+	.div3 h3 {
+		right: 2%;
+		top: 4%;
+		font-size: 3em
+	}
+	.commentdiv {
+		background-size: 92% 100%, 100% 100%;
+		background-position: 53%, 84% 111px
+	}
+	.commentdiv .commentdivInner {
+		margin-left: 7%
+	}
+	.commentdiv .commentdivInner h3 {
+		font-size: 3em
+	}
+	.commentdiv .commentdivInner .cmntP1 {
+		font-size: 1.7em
+	}
+	.commentdiv .commentdivInner .cmntP2 {
+		width: 90%
+	}
+	.commentdiv .commentdivInner .commentBox .col {
+		margin-bottom: 16%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		flex-wrap: nowrap
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		width: 90%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .partners button {
+		font-size: .9em;
+		padding: 5% 10%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .directories button {
+		font-size: .9em;
+		padding: 5% 10%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP1 {
+		font-size: 1.2em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP2 {
+		font-size: 1em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 25vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 60%;
+		margin-right: 5%;
+		margin-bottom: 5%
+	}
+	.myForm {
+		width: 84%;
+		margin-left: 0;
+		margin-bottom: -6%;
+		margin-right: 8%
+	}
+	.lastSectionDiv .myForm .frminput {
+		width: 100%
+	}
+	.lastSectionDiv .myForm .captchadiv {
+		width: 100%
+	}
+	.lastSectionDiv .myForm textarea {
+		width: 96%
+	}
+	.carousel-inner {
+		max-height: 346px
+	}
+	.copyrightouter {
+		flex-basis: auto
+	}
+	.page-footer .copyrightdiv .col img {
+		width: 30%
+	}
+	.Certifications {
+		display: contents
+	}
+	.secondDivImage1 {
+		width: 286px;
+		height: 339px
+	}
+	.btndivButton {
+		padding: 3% 6%;
+		margin-top: 5%
+	}
+	.thirdDivHeading {
+		font-size: 10.528vw
+	}
+	.cstmRowCol2Headding2 {
+		font-size: 5em
+	}
+	.secondDivImage1 {
+		width: 320px;
+		height: 334px
+	}
+	.row.thirdDivRow .col-sm-2 img {
+		width: auto
+	}
+	.engagenmentContainer-top .pdiv p {
+		font-size: 3em
+	}
+	.e_commerce .container-e_commerce-div .ecommecepdiv .ecommecep1 {
+		text-align: center!important;
+		margin: auto;
+		font-size: 1.9em
+	}
+	.e_commerce .container-e_commerce-div .banner_textimg .ecommercebannertext {
+		margin: auto
+	}
+	.e_commerce .container-e_commerce-div .ecommecepdiv .ecommecep2 {
+		text-align: center!important;
+		line-height: 1.75;
+		margin: auto
+	}
+	.e_commerce .ecommerceblackdiv .blackblog .blackblogclol {
+		padding: 0 5% 0 7%!important
+	}
+	.e_commerce .ecommecepdiv ul.text-left.ecommecep3 {
+		line-height: 1.5;
+		margin: auto
+	}
+	.e_commerce .ecommecepdiv .ecommecep3 li {
+		font-size: 1em!important;
+		line-height: 1.5
+	}
+	.e_commerce .ecombanner_img .img-banner {
+		margin-top: 0!important
+	}
+	.e_commerce .ecombanner_img .img-banner {
+		width: 100%!important
+	}
+	.e_commerce .blackblogcloR .expert_talk {
+		border-left: none!important
+	}
+	.e_commerce .ecommerceblackdiv .blackblogcloR img.img-fluid {
+		width: 80px;
+		float: left
+	}
+	.e_commerce .ecommerceblackdiv .blogdivTxt .blackblog .blackblogcloR button {
+		display: inline-block;
+		width: 70%;
+		padding: 4% 2%;
+		vertical-align: text-top
+	}
+	.e_commerce .commercegreendiv {
+		margin-top: 5%
+	}
+	.e_commerce .blogdivTxt {
+		padding: 3% 0 5% 3%
+	}
+	.e_commerce .blogdivTxt .blockdivpp2 {
+		padding-right: 3%!important
+	}
+	.e_commerce .commrce-greenR .cstmRowCareer .blackcolLH {
+		font-size: 1.3em!important
+	}
+	.e_commerce .commercegreendiv .commrce-greenR ul {
+		margin-left: 4%!important;
+		padding-left: 0
+	}
+	.e_commerce .e_commtechdiv .commercetechH {
+		font-size: 1.5em!important;
+		margin: 0 5%
+	}
+	.e_commerce .e_commtechdiv .coomrcetechP {
+		font-size: 1em!important;
+		line-height: 1.5!important;
+		padding: 0!important;
+		color: #616161;
+		margin-top: 4%
+	}
+	.e_commerce .e_commtechdiv .row.row1.hybrid_block {
+		margin-top: 10%
+	}
+	.e_commerce .e_commtechdiv .row1 div:nth-of-type(2) img {
+		width: 65%!important
+	}
+	.e_commerce .hybrid_block .vecterimg {
+		width: 23%!important
+	}
+	.e_commerce .e_commtechdiv .row1 div:nth-of-type(4) img {
+		width: 75%!important
+	}
+	.e_commerce .e_commtechdiv .row1 div:nth-of-type(3) img {
+		width: 75%!important
+	}
+	.e_commerce .hybrid_block .groupicon {
+		width: 50%!important
+	}
+	.e_commerce .e_commtechdiv .groupicon {
+		width: 50%!important
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyH {
+		font-size: 1.5em
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .ecomrcestudi {
+		font-size: 1em
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP1 {
+		line-height: 1.5;
+		margin-top: 4%;
+		color: #616161
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		font-size: 2.7em!important;
+		line-height: .8;
+		margin-bottom: -5%!important
+	}
+	.e_commerce .e-commercasestydiv .scrollrow {
+		position: relative!important
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL {
+		position: absolute!important;
+		bottom: 0!important;
+		text-align: center!important
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		font-size: 1.125em!important;
+		line-height: 2!important;
+		padding: 2%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLH {
+		font-size: 1.125em!important;
+		line-height: 2!important;
+		margin: 2%!important
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		display: none
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .slidermoreRead {
+		display: none
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL,
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolR img {
+		width: 100%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL,
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolR {
+		position: relative;
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 0 7%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolR img {
+		margin-left: 0!important;
+		margin-bottom: 0!important
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolRRR {
+		position: unset
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolRRR img {
+		margin-bottom: 20%!important;
+		margin-top: 5%!important
+	}
+	.e_commerce .commercegreendiv .commrce-greenR {
+		margin-left: 0!important
+	}
+	.e_commerce .careerlasdata div p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 5% 1% 0
+	}
+	.e_commerce button.btnQuote {
+		width: 100%!important;
+		line-height: 1.5;
+		font-size: 1em!important;
+		margin: 1% 0 9%!important;
+		padding: 4%
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-topRow {
+		margin: 0;
+		width: 100%
+	}
+	.portfolio-details .container-port-details .folio-top-content .yellowdiv .yellowdivH {
+		font-size: 1.4em
+	}
+	.portfolio-details .container-port-details .folio-top-content .yellowdiv .yellowdivP {
+		font-size: 1.2em
+	}
+	.portfolio-details .Pdetailresult .row .PdetailresultColR {
+		text-align: center
+	}
+	.portfolio-details .technologydiv .technologydivRow {
+		margin: 0!important;
+		width: 100%!important;
+		flex-wrap: wrap
+	}
+	main.aboutus_section .container-top {
+		padding-top: 15%!important
+	}
+	.learning-Top .ExpandingDiv .Expanding {
+		width: 91%;
+		margin-left: 8%;
+		font-size: 2em
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt {
+		background: #333;
+		width: 75%;
+		padding: 2% 4% 12%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-indicators {
+		bottom: -10%!important
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-control-next {
+		right: -2%;
+		bottom: -110%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-control-prev {
+		bottom: -110%;
+		left: 67%
+	}
+	.caseStudyInner .caseStudyInnerText {
+		font-size: 5.2%;
+		line-height: .8
+	}
+	.caseStudyInner .carousel-inner {
+		max-height: 100%
+	}
+	.blog .blogfeatur .blogfeaturrow .featurCol2 {
+		padding: 15px
+	}
+	.jsframwork .container-jsframwork-div {
+		padding-bottom: 13%
+	}
+	/* .jsframwork .jstalk2Xprt .jstalk2XprtTxtTop .jstalk2XprtTxtTopColR .jstalk2XprtTxtTopColRInner {
+		background: 0 0!important;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-between
+	} */
+	.jsframwork .jstalk2Xprt .jstalk2XprtTxtTop .jstalk2XprtTxtTopColR .jstalk2XprtTxtTopColRInner p {
+		width: 25%;
+    display: inline-block;
+	}
+	.jsframwork .jstalk2Xprt .jstalk2XprtTxtTop .jstalk2XprtTxtTopColR .jstalk2XprtTxtTopColRInner button {
+		margin-right: 3%;
+		padding: 3% 4%;
+		width: 65%
+	}
+	.jsframwork .framworkUse {
+		margin: 0 5%;
+		width: 90%
+	}
+	.jsframwork .framworkUse .framworkUseInner .framworkUseInnerCol img {
+		width: 16%;
+		padding: 3%
+	}
+	.jsframwork .choosejsFramwork {
+		padding-left: 0;
+		padding-right: 0
+	}
+	.jsframwork .choosejsFramwork .choosejsFramworkH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.jsframwork .choosejsFramwork .choosejsFramworkCol img {
+		width: 13.2%
+	}
+	.jsframwork .choosejsFramwork .choosejsFramworkCol .choosejsFramworkColH {
+		font-size: 1.125em;
+		line-height: 1.67;
+		margin: 4% 0 4%
+	}
+	.jsframwork .choosejsFramwork .choosejsFramworkCol .choosejsFramworkColP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.jsframwork .choosejsFramwork .col-md-4.choosejsFramworkCol:nth-of-type(2),
+	.jsframwork .choosejsFramwork .col-md-4.choosejsFramworkCol:nth-of-type(3) {
+		margin-top: 4%
+	}
+	.jsframwork .hireJSDev .hireJSDevH {
+		font-size: 1.6em
+	}
+	.jsframwork .hireJSDev .carousel-inner .carousel-item .hireJSDevSlide .hireJSDevSlideH {
+		font-size: 1.25em;
+		line-height: 1.67
+	}
+	.jsframwork .framworkUse .framworkUseH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.jsframwork .framworkUse .framworkUseInner .framworkUseInnerCol .framworkUseInnerColH {
+		margin-top: 4%;
+		margin-bottom: 3%
+	}
+	.jsframwork .framworkUse .framworkUseInner .framworkUseInnerCol .framworkUseInnerColP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.jsframwork .container-jsframwork-div .jspdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 0;
+		margin-right: 0
+	}
+	.jsframwork .container-jsframwork-div .jspdiv .jspdivL .jspdivH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.jsframwork .container-jsframwork-div .jspdiv .jspdivL .jspdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important
+	}
+	.jsframwork .container-jsframwork-div .jspdiv .jspdivR img {
+		margin-top: 0
+	}
+	.jsframwork .hireJSDev {
+		padding-bottom: 17%
+	}
+	.jsframwork .hireJSDev #jsFrmCarousel .carousel-indicators {
+		bottom: -14%
+	}
+	.jsframwork .hireJSDev #jsFrmCarousel .carousel-inner {
+		max-height: 100%
+	}
+	.jsframwork .hireJSDev #jsFrmCarousel .left,
+	.jsframwork .hireJSDev #jsFrmCarousel .right {
+		display: none
+	}
+	.jsframwork .jslastquote .jslastquoteInner {
+		width: 90%;
+		margin-right: 5%;
+		margin-left: 5%;
+		padding-top: 10%;
+		padding-bottom: 5%
+	}
+	.jsframwork .jslastquote .jslastquoteInner p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.ourProduct .productlastquote .productlastquoteInner {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0
+	}
+	.ourProduct .container-ourProduct-div .ourProductpdiv .ourProductpdivL .ourProductpdivH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.ourProduct .Producttalk2Xprt {
+		margin-top: -17!important
+	}
+	.appAnalytics .container-appAnalytics-div .appAnalyticspdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 0;
+		margin-right: 0
+	}
+	.appAnalytics .Analyticstalk2Xprt .Analyticstalk2XprtTxtTopColL .Analyticstalk2XprtTxtTopP1 {
+		line-height: 1.5;
+		color: #616161;
+		padding-right: 3%;
+		padding-left: 2%;
+		padding-top: 3%
+	}
+	/* .appAnalytics .Analyticstalk2Xprt .Analyticstalk2XprtTxtTop .Analyticstalk2XprtTxtTopColR .Analyticstalk2XprtTxtTopColRInner {
+		background: 0 0!important;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-between
+	} */
+	.appAnalytics .Analyticstalk2Xprt .Analyticstalk2XprtTxtTop .Analyticstalk2XprtTxtTopColR .Analyticstalk2XprtTxtTopColRInner p {
+		width: 25%;
+    display: inline-block;
+	}
+	.appAnalytics .Analyticstalk2Xprt .Analyticstalk2XprtTxtTop .Analyticstalk2XprtTxtTopColR .Analyticstalk2XprtTxtTopColRInner button {
+		margin-right: 3%;
+		width: 65%;
+		padding: 3% 4%
+	}
+	.appAnalytics .AppIntegration .AppIntegrationRow .AppIntegrationColR .AppIntegrationColH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		margin-top: 5%;
+		text-align: center
+	}
+	.appAnalytics .AppIntegration .AppIntegrationRow .AppIntegrationColR .AppIntegrationColP {
+		line-height: 1.5;
+		text-align: center
+	}
+	.appAnalytics .container-appAnalytics-div .appAnalyticspdiv .appAnalyticspdivL .appAnalyticspdivH,
+	.appAnalytics .weOffer .weOfferH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.appAnalytics .ourSpecialistRow .ourSpecialistCol .ourSpecialistColH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.appAnalytics .weOffer .weOfferRow1 .weOfferCol,
+	.appAnalytics .weOffer .weOfferRow2 .weOfferCol {
+		padding: 0
+	}
+	.appAnalytics .weOffer .weOfferCol:nth-of-type(2) {
+		margin-top: 4%
+	}
+	.appAnalytics .weOffer .weOfferCol img {
+		width: 14.2%
+	}
+	.appAnalytics .weOffer .weOfferCol .weOfferColH {
+		font-size: 1.125em;
+		line-height: 1.67
+	}
+	.appAnalytics .weOffer .weOfferCol .weOfferColP {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.appAnalytics .weOffer .weOfferRow2 .col-sm-12 p.pt-5 {
+		padding-top: 3%!important;
+		font-family: Inter Regular;
+		font-size: 1em
+	}
+	.appAnalytics .ourSpecialistRow .ourSpecialistCol {
+		padding: 0
+	}
+	.appAnalytics .container-appAnalytics-div .appAnalyticspdiv .appAnalyticspdivL .appAnalyticspdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important;
+		white-space: normal
+	}
+	.appAnalytics .container-appAnalytics-div .appAnalyticspdiv .appAnalyticspdivR img {
+		margin-top: 0
+	}
+	.appAnalytics .analyticslastquote .analyticslastquoteInner {
+		width: 90%;
+		margin-right: 5%;
+		margin-left: 5%;
+		padding-top: 10%;
+		padding-bottom: 5%
+	}
+	.appAnalytics .analyticslastquote .analyticslastquoteInner p {
+		line-height: 1.78;
+		font-size: 1.125em;
+		padding: 0 1% 0
+	}
+	.appAnalytics .AppIntegration .AppIntegrationRow .AppIntegrationColL {
+		text-align: center!important
+	}
+	.QAssurance .container-QAssurance-div .QAssurancepdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 2%;
+		margin-right: 0
+	}
+	.QAssurance .container-QAssurance-div .QAssurancepdiv .QAssurancepdivL .QAssurancepdivH {
+		padding-top: 0
+	}
+	.QAssurance .QAService .QAServiceH,
+	.QAssurance .container-QAssurance-div .QAssurancepdiv .QAssurancepdivL .QAssurancepdivH {
+		font-size: 1.5em!important;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.QAssurance .container-QAssurance-div .QAssurancepdiv .QAssurancepdivL .QAssurancepdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important
+	}
+	.QAssurance .QATestingH {
+		font-family: Inter Semi Bold;
+		font-size: 1.25em!important;
+		line-height: 1.9!important
+	}
+	.QAssurance .QATestingP {
+		line-height: 1.5!important;
+		font-size: 1em!important;
+		color: #333;
+		padding: 0 2%
+	}
+	.QAssurance .QATesting .QATestingRow {
+		width: 90%!important;
+		margin: 0 5%!important;
+		text-align: center!important
+	}
+	.QAssurance .QATesting .QATestingRow .QATestingColR {
+		padding: 0
+	}
+	.QAssurance .QAService {
+		width: 90%!important;
+		margin: 0 5%!important
+	}
+	.QAssurance .QAService .QAServiceP {
+		font-size: 1em!important;
+		line-height: 1.5!important
+	}
+	.QAssurance .QAService .QAServiceCol img {
+		width: 13%
+	}
+	.QAssurance .QAService .QAServiceCol .QAServiceColH {
+		font-size: 1.125em;
+		margin: 4% 0 3%
+	}
+	.QAssurance .QAService .QAServiceCol .QAServiceColP {
+		font-size: .95em;
+		line-height: 1.57
+	}
+	.QAssurance .col-md-4.QAServiceCol:nth-of-type(2),
+	.QAssurance .col-md-4.QAServiceCol:nth-of-type(3) {
+		margin-top: 4%
+	}
+	.QAssurance .QAConsultation .QAConsultationH,
+	.QAssurance .QAMantraH,
+	.QAssurance .QAtechlogodiv .QAtechlogoH {
+		font-size: 1.5em!important;
+		line-height: 1.42!important
+	}
+	.QAssurance .QAConsultation .QAConsultationP,
+	.QAssurance .QAConsultation .QAConsultationRow .QAConsultationColP {
+		padding: 1% 0 0;
+		font-size: 1em!important;
+		line-height: 1.57;
+		margin-bottom: 0
+	}
+	.QAssurance .QAMantra .col-sm-12 {
+		padding: 0
+	}
+	.QAssurance .QAMantra .col-sm-6 {
+		padding: 0
+	}
+	.QAssurance .QAMantraP {
+		font-size: 1em!important;
+		line-height: 1.57!important;
+		text-align: left
+	}
+	.QAssurance .QAMantra .QAMantraUl {
+		padding: 0;
+		margin: 0
+	}
+	.QAssurance .QAConsultation .QAService .col-sm-7 {
+		padding: 0
+	}
+	.QAssurance .QAConsultation .QAConsultationRow {
+		margin-top: 0;
+		padding: 0
+	}
+	.QAssurance .QAtechlogodiv .QAtechlogoP {
+		padding: 0;
+		margin: 5% 0 0!important;
+		width: 100%!important;
+		line-height: 1.5;
+		font-size: 1em!important;
+		color: #616161
+	}
+	.QAssurance .QAtechlogodiv .row1 div,
+	.QAssurance .QAtechlogodiv .row2 div {
+		width: 25%!important;
+		margin: 0;
+		margin-bottom: 7%;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center
+	}
+	.QAssurance .QAtechlogodiv .row1 {
+		margin-top: 10%;
+		margin-bottom: 0
+	}
+	.QAssurance .QAtechlogodiv .row2 div.col-md-2 {
+		text-align: center;
+		padding-left: 15px
+	}
+	.QAssurance .QAtechlogodiv .row2 .emptyDiv {
+		width: 0%!important;
+		padding: 0;
+		display: none
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv .engagementSection .engagementColrow .colImgTag {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 15%;
+		margin-right: 0
+	}
+	.engagementSection .engagenmentContainer-top {
+		padding-bottom: 17.5%
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv .col-md-6 img {
+    margin-top: 0%;
+}
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv {
+		width: 100%;
+		margin: auto;
+		margin-top: 2%
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv .col-md-6 {
+		text-align: center!important
+	}
+	/* .engagementSection .engagenmentContainer-top .engagnmentpdiv .col-md-6 img {
+		height: fit-content
+	} */
+	@-moz-document url-prefix() {
+		.engagementSection .engagenmentContainer-top .engagnmentpdiv .col-md-6 img {
+			margin-top: 0
+		}
+		.engagementSection .engagenmentContainer-top {
+			padding-bottom: 13.5%!important
+		}
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv .engagnmentpdivH {
+		font-size: 1.5em!important;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdiv .engagnmentpdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em!important;
+		text-align: center!important
+	}
+	.engagementSection .engagementMainDiv1Para {
+		line-height: 1.5;
+		color: #616161;
+		padding-top: 4%;
+		font-size: 1em
+	}
+	.engagementSection .engagementMainDiv2Heading {
+		margin-top: 8%
+	}
+	.engagementSection .engagementMainDiv2Headingpara {
+		font-size: 1.135em;
+		line-height: 1.78;
+		margin: 0 5%;
+		width: 90%;
+		text-align: center
+	}
+	.engagementSection .engagementMainDiv2Heading .engagementColrow {
+		display: flex;
+		flex-direction: column;
+		margin-top: 6%!important;
+		padding: 2%
+	}
+	.engagementSection .engagementColrow {
+		margin-top: 0!important;
+		padding: 0
+	}
+	.engagementSection .engagementColrow .colImgTag {
+		width: 23%!important;
+		height: 72px!important
+	}
+	.engagementSection .engagementColrow div:nth-of-type(2) {
+		width: 100%!important;
+		padding: 0;
+		margin: 6% 0
+	}
+	.engagementSection .cstmRowEngagement {
+		width: 90%;
+		margin: 0 5% 0 5%
+	}
+	.engagementSection .OurWideDiv .OurWideDiv2 #OurWideDiv2TabWeb {
+		display: none
+	}
+	.engagementSection .OurWideDiv .OurWideDiv2 #OurWideDiv2TabMobile {
+		display: block
+	}
+	.engagementSection .orderingSolution {
+		margin-top: 0!important;
+		margin-bottom: 6%
+	}
+	.engagementSection .orderingSolutionRow {
+		padding-bottom: 1%;
+		width: 100%;
+		margin: 0
+	}
+	.engagementSection .OnlineFood.tablinksfoodMobile.active {
+		margin-bottom: -2%!important;
+		width: 100%
+	}
+	.engagementSection .OnlineFood.tablinksfoodMobile {
+		background: #fff;
+		color: #333!important;
+		width: 100%
+	}
+	.engagementSection .OnlineFood.tablinksfoodMobile div {
+		background-color: transparent;
+		backdrop-filter: unset;
+		display: table-cell
+	}
+	.engagementSection .orderingSolutionRowDivHadding {
+		font-size: 1.125em;
+		line-height: 1.87;
+		color: #333;
+		padding-right: 9%;
+		margin-top: 1%
+	}
+	.engagementSection .orderingSolutionRowDivPara {
+		font-size: 1em
+	}
+	.engagementSection .OurWideDiv {
+		margin-top: 40%
+	}
+	.engagementSection .OurWide {
+		padding: 42% 5% 3%!important;
+		margin-top: -34%
+	}
+	.engagementSection .OurWideh3 {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.engagementSection .OnlineFoodHeadding {
+		font-size: .9em;
+		line-height: 1.57
+	}
+	.engagementSection .OnlineFoodimg {
+		width: 44%;
+		margin: 0 20%
+	}
+	.engagementSection .OnlineFood {
+		margin-bottom: 6%
+	}
+	.engagementSection .OnlineFood div:nth-of-type(2) {
+		width: 82%!important
+	}
+	.engagementSection .orderingSolution {
+		display: none
+	}
+	.engagementSection .engagement-btn {
+		width: 100%!important;
+		height: 50px;
+		margin-bottom: 8%
+	}
+	#mySidepanel .leftMenuRow {
+		display: none!important
+	}
+	#mySidepanel .leftMenuRow1 {
+		display: block!important
+	}
+	#mySidepanel img.Logo-1.logo_nav {
+		display: none!important
+	}
+	#mySidepanel .mobileLeftMenuul .mobileLeftmenuMainHeading a:hover {
+		box-shadow: none;
+		background-color: transparent
+	}
+	#mySidepanel .mobileLeftMenuul {
+		list-style-type: none;
+		padding-left: 0
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu {
+		box-shadow: inset 8px 0 0 0 rgba(255, 255, 255, 0);
+		background-color: rgba(255, 255, 255, .2)
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu1 {
+		box-shadow: none;
+		background-color: transparent
+	}
+	#mySidepanel .mobileLeftMenuul .sub-menu {
+		list-style-type: none;
+		padding-left: 0
+	}
+	#mySidepanel .mobileLeftMenuul .sub-menu1 {
+		list-style-type: none;
+		padding-left: 0
+	}
+	#mySidepanel .mobileLeftMenuul .mobileLeftmenuMainHeading a {
+		color: #fff!important;
+		margin-bottom: 2%;
+		font-family: Inter Regular!important;
+		font-size: 1.2em;
+		outline: 0
+	}
+	#mySidepanel .mobileLeftMenuul .sub-menu .subMenuLi {
+		color: #fff!important;
+		margin-bottom: 2%;
+		font-family: Inter Regular!important;
+		font-size: 1em;
+		padding-left: 17%
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu .sub-menu1 li:hover {
+		box-shadow: inset 8px 0 0 0 #2083d2!important;
+		background-color: rgba(32, 131, 210, .5)!important
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu .sub-menu1 li {
+		padding-left: 28%!important;
+		line-height: 1.5;
+		padding: 2% 0
+	}
+	#mySidepanel .mobileLeftMenuul .sub-menu .subMenuLi:hover {
+		box-shadow: inset 8px 0 0 0 #2083d2!important;
+		background-color: rgba(32, 131, 210, .5)!important
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu .sub-menu1 li a:hover {
+		box-shadow: none;
+		background-color: transparent
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu .sub-menu1 li a {
+		color: #fff!important;
+		font-family: Inter Regular!important;
+		font-size: 1em;
+		padding-left: 0;
+		outline: 0
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu .subMenuLi a {
+		color: #fff!important;
+		font-family: Inter Regular!important;
+		font-size: 1em;
+		padding-left: 0;
+		outline: 0
+	}
+	#mySidepanel .mobileLeftMenuul div .sub-menu .subMenuLi a:hover {
+		box-shadow: none;
+		background-color: transparent
+	}
+	#mySidepanel .mobileLeftMenuul .plus {
+		background-image: url(../img/plus.png);
+		background-repeat: no-repeat;
+		background-position: 95% center;
+		background-size: 5%
+	}
+	#mySidepanel .mobileLeftMenuul .plus.minus {
+		background-image: url(../img/minus.png);
+		background-repeat: no-repeat;
+		background-position: 95% center;
+		background-size: 5%
+	}
+	.page-footer hr.clearfix {
+		display: none
+	}
+	.page-footer .text-md-left {
+		text-align: left!important
+	}
+	.page-footer .row .mx-auto {
+		padding-left: 0
+	}
+	.page-footer .row .mx-auto h5 {
+		font-size: .9em;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		line-height: 2.22;
+		margin-bottom: 0!important
+	}
+	.page-footer .fa {
+		display: inline!important;
+		font-size: 1.5em
+	}
+	.page-footer ul.list-unstyled {
+		margin-top: 2%;
+		margin-bottom: 1%;
+		display: none
+	}
+	.page-footer .copyrightdiv .col:nth-of-type(3) {
+		padding-bottom: 5%;
+		justify-content: flex-start;
+		flex: -moz-max-content
+	}
+	.page-footer .footer_nav {
+		padding: 0 6% 0 0;
+		display: table
+	}
+	.page-footer .addressdivDiv {
+		display: none
+	}
+	.page-footer .addressdiv p {
+		font-size: .85em
+	}
+	.page-footer div.addressList {
+		margin-top: 4%
+	}
+	.page-footer .copyrightdiv .footer-copyright {
+		display: block
+	}
+	.page-footer .row.cstmRow.copyrightdiv {
+		display: flex;
+		flex-direction: column
+	}
+	.foodRestaurant .container-foodRestaurant-div {
+		padding-bottom: 13%
+	}
+	.foodRestaurant .container-foodRestaurant-div .foodRestaurantpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 1%
+	}
+	.foodRestaurant .container-foodRestaurant-div .foodRestaurantpdiv .foodRestaurantpdivL {
+		padding-top: 1%
+	}
+	.foodRestaurant .container-foodRestaurant-div .foodRestaurantpdiv .foodRestaurantpdivL .foodRestaurantpdivH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.foodRestaurant .container-foodRestaurant-div .foodRestaurantpdiv .foodRestaurantpdivL .foodRestaurantpdivP {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important
+	}
+	.foodRestaurant .container-foodRestaurant-div .foodRestaurantpdiv .foodRestaurantpdivR img {
+		width: 100%;
+		margin-top: 0;
+		max-width: 100%;
+		margin-left: 0
+	}
+	.foodRestaurant .foodParadiv {
+		padding: 4% 5% 4%;
+		width: 100%
+	}
+	.foodRestaurant .foodParadiv .foodParadivRow .foodParadivCol .foodParadivColP {
+		line-height: 1.5
+	}
+	.foodRestaurant .Foodwhtweoffer {
+		padding-top: 6%;
+		padding-bottom: 8%
+	}
+	.foodRestaurant .Foodwhtweoffer .FoodwhtweofferH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.foodRestaurant .Foodwhtweoffer .FoodwhtweofferP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.foodRestaurant .FoodwhtweofferRow {
+		margin-left: 0;
+		margin-right: 0
+	}
+	.foodRestaurant .FoodwhtweofferRow .FoodwhtweofferRowColR .FoodwhtweofferRowColRH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		margin-top: 4%;
+		font-family: Inter Semi Bold
+	}
+	.foodRestaurant .FoodwhtweofferRow .FoodwhtweofferRowColR .FoodwhtweofferRowColRul li {
+		line-height: 1.5
+	}
+	.foodRestaurant .foodcasestudy .foodcasestudyRow .foodcasestudyRowL {
+		padding: 0
+	}
+	.foodRestaurant .foodcasestudy .foodcasestudyRow .foodcasestudyRowL .foodcasestudyRowLH1 {
+		font-size: 1.5em;
+		text-align: center
+	}
+	.foodRestaurant .foodcasestudy .foodcasestudyRow .foodcasestudyRowL .foodcasestudyRowLH2 {
+		font-size: 1.25em;
+		text-align: center;
+		margin-top: 0;
+		margin-bottom: 4%
+	}
+	.foodRestaurant .foodcasestudy .foodcasestudyRow .foodcasestudyRowL .foodcasestudyRowLP {
+		line-height: 1.5;
+		text-align: center
+	}
+	.foodRestaurant .foodcasestudy .foodcasestudyRow .foodcasestudyRowR img {
+		position: relative;
+		width: 100%
+	}
+	.foodRestaurant .foodbusinschallng .foodbusinschallngH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		font-family: Inter Semi Bold
+	}
+	.foodRestaurant .foodOutcomes .foodOutcomesRow .foodOutcomesRowL {
+		padding: 0
+	}
+	.foodRestaurant .foodOutcomes .foodOutcomesRow .foodOutcomesRowL .foodOutcomesRowLUL li,
+	.foodRestaurant .foodbusinschallng .foodbusinschallngUL li {
+		line-height: 1.5
+	}
+	.foodRestaurant .foodOutcomes .foodOutcomesRow .foodOutcomesRowL .foodOutcomesRowLH,
+	.foodRestaurant .foodwtwedid .foodwtwedidH {
+		font-size: 1.5em;
+		line-height: 1.42;
+		font-family: Inter Semi Bold
+	}
+	.foodRestaurant .foodwtwedid .foodwtwedidUL li {
+		line-height: 1.5
+	}
+	.foodRestaurant .foodOutcomes .foodOutcomesRow .foodOutcomesRowR {
+		justify-content: center
+	}
+	.foodRestaurant .foodOutcomes .foodOutcomesRow .foodOutcomesRowR img {
+		height: 390px
+	}
+	.foodRestaurant .technologydiv .technologydivRow .col-md-2 {
+		margin: auto;
+		width: 33.3%!important
+	}
+	.foodRestaurant .technologydiv .technologydivRow {
+		margin: 0!important;
+		width: 100%!important;
+		flex-wrap: wrap;
+		padding-bottom: 8%
+	}
+	.swConsulting .container-swConsulting {
+		padding-bottom: 10%
+	}
+	.swConsulting .container-swConsulting .swConsultingpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 1%
+	}
+	.swConsulting .container-swConsulting .swConsultingpdiv .swConsultingp1 {
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center!important
+	}
+	.swConsulting .container-swConsulting .swConsultingpdiv .swConsultingp2 {
+		line-height: 1.75;
+		font-family: Inter Medium;
+		font-size: 1em;
+		text-align: center!important;
+		padding: 0
+	}
+	.swConsulting .container-swConsulting .swConsultingpdiv .swConsultingpdivR img {
+		margin-top: 0
+	}
+	.swConsulting .swConDivTxt .swConDivP1 {
+		line-height: 1.52;
+		font-size: 1.125em
+	}
+	.swConsulting .swConsultingDivRow .swConsultingDivColR .swConsultingDivColRP {
+		line-height: 1.5
+	}
+	.swConsulting .swConsultingService {
+		width: 90%;
+		margin: 0 5%
+	}
+	.swConsulting .swConsultingService .swConsultingServiceH {
+		font-size: 1.5em;
+		line-height: 1.42
+	}
+	.swConsulting .swConsultingService .swConsultingServiceP {
+		padding: 0;
+		line-height: 1.52
+	}
+	.swConsulting .swConsultingService .swConsultingServiceCol .swConsultingServiceColH {
+		margin-top: 5%;
+		font-size: 1.2em;
+		margin-bottom: 4%
+	}
+	.swConsulting .swConsultingService .swConsultingServiceCol .swConsultingServiceColP {
+		font-size: .9em;
+		line-height: 1.57;
+		margin-bottom: 10%
+	}
+	.swConsulting .whyTriazinesoft .whyTriazinesoftH {
+		font-size: 1.5em!important;
+		line-height: 1.42!important
+	}
+	.swConsulting .whyTriazinesoft .whyTriazinesoftP {
+		line-height: 1.5;
+		font-size: 1.12em
+	}
+	.swConsulting .whyTriazinesoft .whyTriazinesoftUl li p {
+		line-height: 1.5
+	}
+	.swConsulting .whyTriazinesoft .whyTriazinesoftUl {
+		padding: 0;
+		margin-top: 0;
+		margin-bottom: 0
+	}
+	.swConsulting .swMaintainceServce .swMaintainceServceH {
+		font-size: 1.5em;
+		font-family: Inter Semi Bold;
+		line-height: 1.42
+	}
+	.swConsulting .swMaintainceServce .swMaintainceServceP {
+		font-size: 1em;
+		line-height: 1.5
+	}
+	.swConsulting .swMaintainceServce .col-sm-4 {
+		padding: 0
+	}
+	.swConsulting .swMaintainceServce .headingServceMaintainence {
+		line-height: 1.42;
+		font-size: 1.125em;
+		font-family: Inter Semi Bold;
+		margin-bottom: 4%
+	}
+	.swConsulting .swMaintainceServce .swMaintainceServceUl {
+		padding-right: 0!important;
+		padding-left: 0!important
+	}
+	.swConsulting .swMaintainceServce ul.swMaintainceServceUl.Quality-chk li span {
+		margin-top: 2%
+	}
+	.swConsulting .swConsultingtechdiv .swConsultingtechH {
+		font-size: 1.5em
+	}
+	.swConsulting .swConsultingtechdiv .swConsultingtechP {
+		font-family: Inter Regular;
+		font-size: 1em;
+		padding-left: 0;
+		padding-right: 0
+	}
+	.swConsulting .swConsultingtechdiv .row1 img,
+	.swConsulting .swConsultingtechdiv .row2 img {
+		height: 10vh
+	}
+	.swConsulting .swConsultingtechdiv .row1 .col-md-2 {
+		width: 33.33%!important;
+		margin: 0;
+		margin-bottom: 5%!important
+	}
+	.swConsulting .swConsultingtechdiv .row2 .col-md-2 {
+		width: 33.33%!important;
+		margin: 0;
+		margin-bottom: 7%
+	}
+	.swConsulting .swConsultingtechdiv .row1 .col-md-3 {
+		width: 35%!important;
+		margin-left: 7%;
+		margin-right: 7%;
+		margin-bottom: 7%
+	}
+	.swConsulting .swConsultingtechdiv .row2 .col-md-3 {
+		width: 35%!important;
+		margin-left: 7%;
+		margin-right: 7%;
+		margin-bottom: 7%
+	}
+	.swConsulting .swConsultingtechdiv .row2 .col-md-3:nth-of-type(1) {
+		order: 1
+	}
+	.swConsulting .swConsultingtechdiv .row2 .col-md-3:nth-of-type(4) {
+		order: 2
+	}
+	.swConsulting .swConsultingtechdiv .row3 .col-md-4 {
+		width: 33.33%!important;
+		margin: 0;
+		margin-bottom: 7%
+	}
+	.swConsulting .swConsultingtechdiv .row3 div.col-md-4 img {
+		width: 70%
+	}
+	.SAP .container-SAP .SAPpdiv {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 2%;
+		margin-right: 0
+	}
+	.SAP .container-SAP .SAPpdiv .SAPp1 {
+		font-size: 1.5em!important;
+		line-height: 1.42;
+		text-align: center!important;
+		padding-top: 3%
+	}
+	.SAP .container-SAP .SAPpdiv .SAPp2 {
+		font-size: 1em;
+		text-align: center!important;
+		padding-top: 0;
+		line-height: 1.5
+	}
+	.SAP .container-SAP .SAPpdiv .SAPpdivR img {
+		margin-top: 0
+	}
+	.SAP .SAPDivTxt .SAPDivP1 {
+		font-size: 1.125em;
+		line-height: 1.52
+	}
+	.SAP .SAPDivRow .SAPDivColR .SAPDivColRP {
+		line-height: 1.5
+	}
+	.SAP .SAPObjective {
+		width: 90%;
+		margin: 0 5%
+	}
+	.SAP .SAPObjective .SAPObjectiveH {
+		font-size: 1.5em;
+		line-height: 1.5
+	}
+	.SAP .SAPObjective .SAPObjectiveP {
+		line-height: 1.5;
+		padding: 0
+	}
+	.SAP .SAPObjective .SAPObjectiveCol .SAPObjectiveColH {
+		font-size: 1.125em;
+		margin: 4% 0 3%
+	}
+	.SAP .SAPPhaseWise .SAPPhaseWiseRow .col-sm-6 {
+		padding: 0
+	}
+	.SAP .SAPPhaseWise .SAPPhaseWiseRow .SAPPhaseWiseCol1H {
+		font-size: 1.5em;
+		font-family: Inter Semi Bold;
+		text-align: center!important
+	}
+	.SAP .SAPPhaseWise .SAPPhaseWiseRow .SAPPhaseWiseCol1P {
+		line-height: 1.5;
+		padding-right: 0
+	}
+	.SAP .SAPPhaseWise .SAPPhaseWiseUl {
+		padding-right: 0!important
+	}
+	.SAP .SAPPhaseWise .SAPPhaseWiseUl li h4,
+	.SAP .SAPPhaseWise .SAPPhaseWiseUl li p {
+		line-height: 1.5
+	}
+	.SAP .SAPInstallation .SAPInstallationRow .SAPInstallationColR .SAPInstallationColH {
+		font-family: Inter Semi Bold;
+		font-size: 1.5em;
+		line-height: 1.42;
+		text-align: center;
+		margin-top: 4%
+	}
+	.SAP .SAPInstallation .SAPInstallationRow .SAPInstallationColR .SAPInstallationColP {
+		line-height: 1.5;
+		text-align: center
+	}
+}
+
+@media only screen and (max-width:767px) {
+
+    .modal-backdrop.show{
+display:none;
+}
+section.modai-top {
+   display: none;
+}
+    
+	.head-contact-top {
+    position: absolute !important;
+    right: 8px;
+	flex-direction: row-reverse;
+	width: 17% !important;
+}
+  /* 1-12-2020 */
+  .container-top {
+    padding-top: 25%;
+}
+h2.RowWebDevPhoneRH.pb-4 {
+    font-size: 1.6rem;
+}
+.container-top .pdiv h1 {
+    font-size: 7.2vw;
+    width: 100%;
+}
+.container-top .pdiv h1 span {
+    font-size: 5vw;
+}
+  /* 1-12-2020 */
+  .contactUsSection .col1ContctUs {
+    height: 935px;
+}
+.contactUsSection .myForm {
+    height: 926px;
+}
+	.indexpartnerDiv .indexprtnrinnerdiv2 {
+		padding: 20% 4% 5%;
+	}
+	.widgets_wrapper {
+		max-width: 100%;
+		width: 100%!important;
+	}
+	.contactUsSection .ContactUs {
+		width: 100%;
+		padding-left: 10%;
+		padding-right: 2%;
+		margin-top: 14%
+	}
+	.contactUsSection .contactUsLastSectionDiv .myForm .captchadiv {
+		width: 100%
+	}
+	.e_commerce .commercegreendiv .commrce-greenR ul {
+		margin: 8% 0 8% 0
+	}
+	.e_commerce .cstmRowCareercontnt {
+		width: 100%!important;
+		margin: 0 0!important
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		font-size: 3.5em
+	}
+	.android img.img-fluid.Android_img {
+		margin-right: -2%
+	}
+	#mySidepanel {
+		overflow-y: scroll!important
+	}
+	.Portfolio .MainColoum {
+		width: 100%
+	}
+	.aboutus_section .vision_section .zoom-effect-container {
+		width: 100%!important
+	}
+	.aboutus_section .orderingSolutionRow {
+		width: auto!important
+	}
+	.aboutus_section .productdev-blk div#plan:after,
+	div#design:after,
+	div#development:after,
+	div#launch:after,
+	div#test:after {
+		display: none
+	}
+	.aboutus_section .Union .nav_pills_content {
+		padding: 0 0!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .media.services-wrap {
+		width: 100%!important;
+		margin-bottom: 1.5rem!important
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-topRow {
+		width: 100%;
+		margin-left: 0
+	}
+	.portfolio-details .container-port-details .folio-top-content .folio-topRow .folio-topcolL .folioImg1 {
+		margin-bottom: -15%
+	}
+	.thirdDivHeading {
+		font-size: 10.528vw
+	}
+	.certifications_home .certificate_block p {
+		padding: 0 0;
+		font-size: 1.1em
+	}
+	.myForm {
+		width: 100%;
+		position: inherit
+	}
+	.myForm {
+		margin-left: 5%
+	}
+	.commentdiv .commentdivInner h3 {
+		font-size: 4em
+	}
+	.commentdiv .commentdivInner .cmntP1 .cmntPSpan {
+		font-size: 1.3em
+	}
+	.firstDivContent {
+		font-size: 12.5555vw
+	}
+	p.happytenp {
+		width: 90%;
+		margin: 0
+	}
+	.happy .col-R .happyGreenDiv .happytenp .happytenspan {
+		font-size: 1.5em;
+		margin-right: 2%
+	}
+	.happy .col-R .happyGreenDiv .happytenp {
+		font-size: 1.3em
+	}
+	.row.col8content {
+		padding-left: 1rem
+	}
+	.aboutus_section .about_content .head_quater_block {
+		padding: 3% 2%!important;
+		padding-top: 0!important
+	}
+	.aboutus_section .about_content .head_quater_block img {
+		width: 100%!important;
+		margin-top: 1%!important
+	}
+	.aboutus_section .about_content .CMMi-Level-3 .cmmi_block {
+		max-width: 100%!important;
+		margin: 3% 3% 3% 3%!important
+	}
+	.aboutus_section .productdev-blk .prddevplop h3 {
+		font-size: 2em!;
+		margin-top: 1rem!important
+	}
+	.aboutus_section .about_content .geographics {
+		font-size: 3em!important
+	}
+	.aboutus_section .vision_section .vision_block2 img {
+		width: 100%
+	}
+	.aboutus_section .vision_section .inner_vision {
+		padding: 7% 0
+	}
+	.We-are-one,
+	.aboutus_section .vision_section .Our-Vision {
+		padding-left: 0
+	}
+	.aboutus_section .inner_mission {
+		padding: 0 0 7%
+	}
+	.aboutus_section .OurWideDiv .cstmRowEngagement {
+		width: 92%;
+		margin: 0 5% 0 4%
+	}
+	.aboutus_section .OnlineFood {
+		width: 100%!important
+	}
+	.aboutus_section .OnlineFoodHeadding {
+		line-height: 1.2!important
+	}
+	.aboutus_section .ourteam_direct img {
+		margin-bottom: 1rem
+	}
+	.aboutus_section .member_block img {
+		width: 100%;
+		margin-bottom: 1rem
+	}
+	.getfree_quote .getButton .getquteButton {
+		width: 100%!important
+	}
+	.row.nav.nav-pills.productdevRow span {
+		display: none
+	}
+	.aboutus_section .header_text p {
+		font-size: 1.5em!important;
+		padding: 30% 0 0!important
+	}
+	.aboutus_section .whoweare_block {
+		margin: 28% 0 10% 0!important;
+		width: 100%!important
+	}
+	.aboutus_section .Technologies-that-we-used {
+		font-size: 2em
+	}
+	.aboutus_section .about_content h3.Who-we-are {
+		font-size: 1.7em!important;
+		padding: 8% 0!important
+	}
+	.aboutus_section .vision_section .vision_block2 img {
+    min-height: 315px!important;
+}
+	.aboutus_section .member_block .content.title_block1 {
+		width: 100%!important
+	}
+	.aboutus_section .member_block .content.title_block2 {
+		width: 100%!important;
+		right: 0!important
+	}
+	.engagenmentContainer-top .row .col-md-4:nth-of-type(3) .btn {
+		display: none
+	}
+	.Logo-1 {
+		width: 176px;
+		height: 140px;
+		margin-top: -40%;
+		margin-left: 10%
+	}
+	.cstmRow {
+		width: 100%!important;
+		margin: 0 0!important
+	}
+	.container-top .pdiv p:nth-of-type(1) {
+		font-size: 5.3vw;
+		width:90%
+	}
+	.container-top .pdiv p:nth-of-type(1) span {
+		font-size: 6.3vw
+	}
+	.container-top .pdiv p:nth-of-type(2) {
+		width: 100%;
+		font-size: 1em
+	}
+	.container-bottom .div1 .shortRow {
+		width: 100%;
+		margin-top: -10%
+	}
+	.happy .col-L {
+		background-size: 91% 100%;
+		width: 100%;
+		height: 434px
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		width: 94%;
+		margin-right: 4%;
+		margin-top: -12%
+	}
+	.commentdiv {
+		background-size: 92% 100%, 100% 100%;
+		background-position: 53%, 84% 111px
+	}
+	.commentdiv .commentdivInner {
+		margin-left: 4%;
+		margin-right: 3%
+	}
+	.carousel-inner {
+		max-height: 346px
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 25vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 60%;
+		margin-right: 5%;
+		margin-bottom: 5%
+	}
+	.copyrightouter {
+		flex-basis: auto!important
+	}
+	.page-footer .copyrightdiv .col img {
+		width: 100%
+	}
+	.container-top .row .web_icon {
+		display: none
+	}
+	a.mobile_icon {
+		display: inline-block!important;
+	}
+	.abt_mobile a.mobile_icon {
+		display: inline-block
+	}
+	.header.active a.mobile_icon {
+		padding: 7px 20px
+	}
+	.header.active img.Logo-stycky {
+		width: 100%!important;
+		margin-top: -6px!important
+	}
+	.jsframwork .jslastquote .jslastquoteInner .btnQuote {
+		width: 100%
+	}
+	.myForm {
+		width: 90%;
+		margin-right: 4%
+	}
+	.cstmRowCol2Headding2 {
+		font-size: 4em
+	}
+	.secondDivImage1 {
+		width: 341px;
+		height: 339px
+	}
+	.row.thirdDivRow .col-sm-2 img {
+		width: auto
+	}
+	.happy .col-L h3 {
+		font-size: 3.8em;
+		margin-left: 13%;
+		white-space: inherit;
+		margin-bottom: 0
+	}
+	.happy .col-R .happyGreenDiv {
+		margin-left: 0!important
+	}
+	.div3 h3 {
+		margin-top: -41%;
+		font-size: 3.6em;
+		right: 0;
+		position: relative;
+		z-index: 1;
+		text-align: center;
+		padding-bottom: 6rem
+	}
+	.div3 .div32 .maindiv3p {
+		margin-top: 33%
+	}
+	.div3 .div32 .div3p4 {
+		margin-top: 13%
+	}
+	.commentdiv .commentdivInner .cmntP2 {
+		width: 100%
+	}
+	body {
+		overflow-x: hidden
+	}
+	.excellence_section .excellence_block1 {
+		padding: 3rem 1rem 2rem;
+		margin: -6rem 0 0
+	}
+	.excellence_section .excellence_block2 {
+		padding: 5rem 1rem 2rem;
+		margin: -6rem 0 0
+	}
+	.browse_btn {
+		padding-top: 2rem
+	}
+	.development_section {
+		padding-top: 2rem
+	}
+	.div3 {
+		padding: 1% 0!important
+	}
+	.div3 .div32 .row .col .card .default {
+		padding: 18% 0 8%;
+		text-align: center
+	}
+	.div3 .div32 .row .col .card .hoverdiv a {
+		font-size: .8rem
+	}
+	.div3 .div32 .row .col {
+		padding: 0;
+		height: 265px
+	}
+	.itemStyle {
+		padding-left: 4.7%
+	}
+	.excellence_section .excellence_block1 h1 {
+		font-size: 2.4em
+	}
+	.div3.excellence_section {
+		margin-top: 13rem
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .partners button {
+		padding: 12% 2% 10%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .directories button {
+		padding: 12% 2% 10%
+	}
+	.cstmRowCareer {
+		width: 90%!important;
+		margin: 5% 5% 0!important
+	}
+	.cstmRowEngagement {
+		width: 82%;
+		margin: 0 5% 0 9%
+	}
+	.orderingSolution {
+		margin-left: 0
+	}
+	.careerlast div .btnQuote {
+		width: 100%
+	}
+	.contactUsSection .ContactUsHeaddingPara {
+		line-height: 1.7
+	}
+	.contactUsSection .contactUsLastSectionDiv {
+		display: inherit
+	}
+	.contactUsSection .FollowUS,
+	.contactUsSection .col1ContctUsSupport {
+		width: 100%
+	}
+	.contactUsSection .myForm {
+		margin-top: 10%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		margin: 0;
+		margin-left: 10%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		padding-top: 0
+	}
+	.careerlasdata div .btnQuote {
+		width: 60%
+	}
+	.thirdDivPara {
+		font-size: 9.5vw
+	}
+	.Web .container-Web-Div .webpdiv {
+		width: 100%;
+		margin-left: 0%
+	}
+		.Web .container-Web-Div .webpdivP {
+		font-size: 1em
+	}
+	.Web .webmoreservice .webmoresercolR .webmoresercolRInner {
+		margin-top: 0
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdivH {
+		font-size: 6.2vw
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdivP {
+		font-size: 4.5vw
+	}
+	.engagementSection .OurWide {
+		padding: 14% .9rem 3%
+	}
+	.QAssurance .container-QAssurance-div .QAssurancepdiv .QAssurancepdivL .QAssurancepdivH {
+		font-size: 1.8em
+	}
+	.QAssurance .container-QAssurance-div .QAssurancepdiv .QAssurancepdivL .QAssurancepdivP {
+		font-size: 1em
+	}
+	.QAssurance .QATestingH {
+		font-size: 2.6em;
+		line-height: 1.5
+	}
+	.QAssurance .QATestingP {
+		font-size: 1.1em;
+		line-height: 1.75
+	}
+	.QAssurance .QATestingRow .QATestingColR .QATestingColRP:nth-of-type(1) {
+		font-size: 1.1em;
+		line-height: 1.75
+	}
+	.QAssurance .QAService .QAServiceH {
+		font-size: 2.6em;
+		line-height: 1.5
+	}
+	.QAssurance .QAService .QAServiceP {
+		font-size: 1.1em;
+		line-height: 1.75
+	}
+	.QAssurance .QAConsultation .QAConsultationH {
+		font-size: 2.6em;
+		line-height: 1.5
+	}
+	.QAssurance .QAConsultation .QAConsultationP {
+		font-size: 1.1em;
+		line-height: 1.75
+	}
+	.QAssurance .QAConsultation .QAConsultationRow .QAConsultationColP {
+		font-size: 1.1em;
+		line-height: 1.75
+	}
+	.QAssurance .QAMantraP {
+		font-size: 1.1em;
+		line-height: 1.75
+	}
+	.QAssurance .QAMantra .QAMantraUl li img {
+		width: 14%
+	}
+}
+
+@media only screen and (max-width:768px) {
+	.header.only-landingpage .head-contact-top {
+    display: block!important;
+		white-space: initial!important;
+}
+	.head-contact-top span {
+    display: none;
+}
+	.android .androidgreenR ul li {
+		font-size: 16px;
+		line-height: 1.4
+	}
+	.android .androidgreenR {
+		padding-right: 1%;
+		padding-left: 1%
+	}
+	.certifications_home .certificate_block p {
+		font-size: 1.2em
+	}
+	.happy .col-L h3 {
+		font-size: 2.8em;
+		margin-left: 22%;
+		white-space: normal
+	}
+	.happy .col-R .happyGreenDiv {
+		margin-left: -33%
+	}
+	.div3 .div32 .maindiv3p {
+		margin-top: 0
+	}
+	.div3 {
+		background-size: 100% 100%;
+		padding: 0 0
+	}
+	/* 1-4-2021 */
+	.aboutus_section .productdev-blk div#strategy:after {
+    top: -16.5% !important;
+    left: -16% !important;
+	}
+
+.aboutus_section .productdev-blk div#plan:after {
+    top: -21.5% !important;
+    left: 10%!important;
+	}
+	.aboutus_section .productdev-blk div#design:after {
+    top: -14.5%!important;
+    left: 35%!important;
+}
+.aboutus_section .productdev-blk div#development:after {
+    top: -19.5%!important;
+    left: 59%!important;
+}
+.wework.tabproductdevlist .nav-link {
+    padding: .5rem 0rem;
+}
+.aboutus_section .productdev-blk div#test:after {
+    top: -22.5%!important;
+    right: 11%!important;
+}
+.aboutus_section .productdev-blk div#launch:after {
+    top: -18.5%!important;
+    right: -14%!important;
+}
+.aboutus_section .productdev-blk li.nav-item.wework a {
+    font-size: 0.9em!important;
+}
+	.aboutus_section .header_text .header_textL .header_textLP {
+    font-size: 1.5em !important;
+	}
+	.threeboxdiv div {
+    padding: 4% 0%;
+	}
+	footer.page-footer.indigo .cstmRow {
+    width: 100%!important;
+    margin: 0 2%!important;
+}
+	.compnay-info.openlink .logo img {
+    max-width: 100%;
+}
+.widget-t7-basic .compnay-info {
+	text-align: center;
+	padding: 0;
+}
+	.item.cstmCarouselItemshadow img {
+    height: 260px !important;
+	}
+	.customer-logos .cstmerLogoImg{
+		width: 100%;
+	}
+	button.btndivButton{
+		font-size: 1.3em;
+		width: 350px;
+		padding: 2.5% 3%;
+	}
+	.div3 {
+    margin-top: 14rem;
+	}
+	.div3 .div32 .row .col .card .default h5 {
+	    font-size: 1em;
+	}
+	.container-top .pdiv p:nth-of-type(1) {
+    font-size: 2vw;
+}
+.happy .col-R .happyGreenDiv .happytenp {
+    font-size: 1.5em;
+}
+	.header.active img.Logo-stycky {
+    margin-top: -10px;
+		width: 100%;
+}
+	.excellence_section .excellence_block1 {
+		margin: -6rem 2rem 0;
+		padding: 3rem 1.5rem 4rem;
+	}
+	.excellence_section .excellence_block1 p:nth-of-type(2) {
+    font-size: 1.8em;
+}
+.excellence_section .excellence_block2 {
+    margin: -5rem 2rem 0;
+}
+	.excellence_section .excellence_block1 p {
+    font-size: 1.5em;
+}
+.excellence_section .excellence_block2 {
+    padding: 5rem 1.5rem 2rem;
+}
+	.development_section {
+		padding-right: 0!important;
+		padding-left: 0!important
+	}
+	.div3 .div32 .row .col .card .default p {
+		font-size: .8em
+	}
+	.wordStyle {
+		padding-left: 0
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		width: 80%
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollheadH {
+		margin: 0
+	}
+	.e_commerce .e-commercasestydiv .cstmRowCareer .scrollcolL .scrollcolLP1 {
+		padding-top: 0
+	}
+	.careerlasdata div .btnQuote {
+		width: 60%
+	}
+	.OurWideDiv2.cstmRowEngagement .triangle-left {
+		height: 72px;
+		margin-top: 0;
+		padding: 37px 0
+	}
+	.appAnalytics .ourUSP .ourUSPRow .ourUSPColR .ourUSPColRH {
+		left: 46%;
+		top: 17%
+	}
+	.Web .ourProcessBG .devProcessSteps .secondStep {
+		top: .5%;
+		left: 35%
+	}
+	.Web .ourProcessBG .devProcessSteps .thirdStep {
+		top: 5%;
+		right: 17%
+	}
+	.Web .ourProcessBG .devProcessSteps .fourthStep {
+		bottom: 41%;
+		right: 2%
+	}
+	.Web .ourProcessBG .devProcessSteps .fivethStep {
+		bottom: 9%;
+		right: 10%
+	}
+	.Web .ourProcessBG .devProcessSteps .sixthStep {
+		bottom: 0;
+		left: 34%
+	}
+	.Web .ourProcessBG .devProcessSteps .seventhStep {
+		bottom: 20%;
+		left: 6%
+	}
+	.Web .webmoreservice .webmoresercolR .webmoresercolRInner {
+		padding: 0 5.4% 6%
+	}
+	.Web .webmoreservice .webmoresercolR img {
+		padding-top: 35%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv p {
+		font-size: Inter Regular;
+		font-size: .65em;
+		line-height: 1.3;
+		padding: 3% 3%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p3 {
+		padding: 0
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p4,
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p5 {
+		bottom: -10%;
+		padding: 3% 7%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p5 {
+		padding: 3% 2%
+	}
+}
+
+@media only screen and (min-width:1024px) {
+
+	.OurWideDiv2.cstmRowEngagement .triangle-left {
+		height: 84px;
+		margin-left: -22px;
+		margin-top: 0;
+		padding: 32.225px 0
+	}
+
+}
+@media only screen and (max-width:1024px) {
+	.head-contact-top {
+		display: block;
+	    font-weight: 100;
+	    flex-direction: row;
+}
+
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+	.head-contact-top {
+		display:block;
+}
+a.skype {
+    background:rgba(255, 255, 255, 0.44);
+    padding: 10px 17px 13px 15px;
+}
+span.mr-3.skype img {
+    width: 20px;
+}
+span.mr-3.skype {
+    margin-right: 0!important;
+}
+.head-contact-top span a.mailto i {
+	background-color: rgba(255, 255, 255, 0.44);
+	padding: 9px 15px;
+	font-size: 1.5rem;
+	height: 43px;
+	width: 46px;
+	display: inline-table;
+	align-items: center;
+	align-content: center;
+	margin: 0px 2px;
+	vertical-align: middle;
+}
+	.head-contact-top span a.mailto b, img.divider-head {
+		display: none;
+}
+	.happy .col-R .happyGreenDiv {
+		width: 100%;
+		margin-left: -46%
+	}
+	.happy .col-R .happyGreenDiv {
+		width: 146%
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv {
+		width: 100%;
+		margin-right: -6%
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv .tabH4Style {
+		padding-left: 0
+	}
+	.threeboxdiv div .tabPStyle {
+		padding-left: 0
+	}
+	.happy .col-R .happyDivtop .happyp1,
+	.happyDivtop dt {
+		font-size: 2.5em;
+		line-height: 1.6
+	}
+	.happy .col-R .happyDivtop .happyp2 {
+		font-size: 1.6em
+	}
+	.happy .col-R .happyGreenDiv .happytenp {
+		margin-right: 7%
+	}
+	.commentdiv .commentdivInner h3 {
+		margin-top: -3.2%;
+		font-size: 8.7vw
+	}
+	.commentdiv .commentdivInner h3 .happyTextStyle {
+		margin-top: -3.2%;
+		font-size: 8.7vw
+	}
+	.commentdiv .commentSlider {
+		margin-top: 11%
+	}
+	.div3 h3 {
+		font-size: 10.7vw;
+		right: 1%;
+		margin-top: -11.7%
+	}
+	.browse_btn {
+		padding-top: 7rem;
+		padding-bottom: 5rem
+	}
+	.div3 .div32 .row .col .card .hoverdiv .hoverp1 {
+		height: 68%
+	}
+	.div3 .div32 .row .col .card .hoverdiv a {
+		font-size: .8rem
+	}
+	.cstmRowBackground {
+		padding: 10% 0 6%
+	}
+	button.btndivButton {
+		font-size: 1.3em;
+		width: 340px;
+		padding: 2.5% 3%;
+		height: 65px;
+	}
+	.firstDivContent {
+		font-size: 5.6vw
+	}
+	.firstDivHeight {
+		font-size: 1.4em
+	}
+	.thirdDivHeading,
+	.thirdDivPara {
+		font-size: 4.7vw
+	}
+	.thirdDivh6 {
+		font-size: 1.5em
+	}
+	.indexpartnerDiv {
+		padding-top: 18%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		height: 19vw;
+		width: 56%;
+		margin-bottom: -5%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .directories button,
+	.indexpartnerDiv .indexprtnrinnerdiv1 .partners button {
+		padding: 32% 2% 0;
+		font-size: 1.5em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP1 {
+		font-size: 3.8vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP2 {
+		font-size: 1.4em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 {
+		width: 80%!important;
+		margin: 0 10%!important
+	}
+	/* .indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 30%;
+		margin-right: 2%
+	} */
+	.IndexContactImg {
+		height: fit-content!important
+	}
+	.footer-contact-section .myForm {
+		width: 92%;
+		padding: 2% 6% 16% 6%
+	}
+	.android .androidgreendiv .androidgreenR ul {
+		margin-left: 0;
+		padding-bottom: 4%
+	}
+	.android .androidcasestydiv .androidcasestytxt .androidcasestyP2 {
+		line-height: .8
+	}
+	.android .androidgreendiv .androidgreenR {
+		padding-right: 5%
+	}
+	.careerOpportunities .opportunitiesdiv .netul .netli .netlidiv .btngreen,
+	.hybridul .hybridli .hybridlidiv .btngreen,
+	.phpul .phpli .phplidiv .btngreen,
+	.uiul .uili .uilidiv .btngreen {
+		width: 25%
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		line-height: .8
+	}
+	.e_commerce .e-commercasestydiv .carousel-indicators {
+		bottom: -20%
+	}
+	.engagementSection .engagementColrow .colImgTag {
+		margin-top: 2%
+	}
+	.engagementSection .OnlineFoodimg {
+		margin: 0 2%
+	}
+	.hybrid .hybridcasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		line-height: .8
+	}
+	.contactUsSection .col2ContctUs .customCheckbox {
+		padding-left: 15%
+	}
+	.contactUsSection .contactUsLastSectionDiv .myForm .captchadiv {
+		width: 89%
+	}
+	.contactUsSection button.clear {
+		right: -6%
+	}
+	.Portfolio .MainColoum {
+		width: 100%
+	}
+	.Portfolio .MainContaint .pWithImg {
+		font-size: 1.7em
+	}
+	.Portfolio .headClass {
+		font-size: 1.7em
+	}
+	.Portfolio .behind {
+		font-size: 1.5em
+	}
+	.Portfolio .Detail {
+		font-size: 1.5em
+	}
+	.aboutus_section .productdev-blk div#design:after,
+	.aboutus_section .productdev-blk div#development:after,
+	.aboutus_section .productdev-blk div#launch:after,
+	.aboutus_section .productdev-blk div#plan:after,
+	.aboutus_section .productdev-blk div#startegy:after,
+	.aboutus_section .productdev-blk div#test:after {
+		/* top: -10.5%!important */
+	}
+	.aboutus_section .productdev-blk .wework span.design_arrow i.fa.fa-arrow-right,
+	.aboutus_section .productdev-blk .wework span.devlop_arrow i.fa.fa-arrow-right,
+	.aboutus_section .productdev-blk .wework span.plan_arrow i.fa.fa-arrow-right,
+	.aboutus_section .productdev-blk .wework span.strategy_arrow i.fa.fa-arrow-right,
+	.aboutus_section .productdev-blk .wework span.test_arrow i.fa.fa-arrow-right {
+		margin: -50% 41%!important
+	}
+	.aboutus_section .header_text p {
+		padding-top: 12%!important
+	}
+	.aboutus_section .whoweare_block {
+		margin-top: 4rem!important
+	}
+	.aboutus_section .about_content .head_quater_blockR .geographics {
+		font-size: 6vw
+	}
+	.learning-Top .ExpandingDiv .Expanding {
+		width: 91%;
+		margin-left: 8%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt {
+		width: 75%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-control-prev {
+		bottom: -92%;
+		left: 81%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-control-next {
+		right: -7%;
+		bottom: -92%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-indicators {
+		bottom: 0!important
+	}
+	.caseStudyInner .caseStudyInnerText {
+		line-height: .8;
+		margin-bottom: -1.9%
+	}
+	.Web .container-Web-Div .webpdivH {
+		font-size: 2em
+	}
+	.Web .container-Web-Div .webpdiv .col-md-6 img {
+		width: auto;
+		margin-top: 0
+	}
+	.Web .webappDevlop .webappDevlopTxt {
+		margin-top: -12.1%
+	}
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopColR .webappDevlopTxtTopColRInner {
+		padding-left: 5%;
+		padding-right: 5%
+	}
+	.Web .webappDevlop .webappDevlopTxt .webappDevlopTxtTop .webappDevlopTxtTopColR .webappDevlopTxtTopColRInner button {
+		height: 61px
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdivH {
+		font-size: 3.6vw
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdivP {
+		font-size: 2.6vw
+	}
+	.engagementSection .OurWide {
+		padding: 14% .9rem 3%
+	}
+	.foodRestaurant .container-foodRestaurant-div .foodRestaurantpdiv .foodRestaurantpdivR img {
+		margin-top: 0
+	}
+	.foodRestaurant .foodOutcomes .foodOutcomesRow .foodOutcomesRowR img {
+		height: 335px
+	}
+	.foodRestaurant .technologydiv .technologydivRow {
+		margin: 0 5%!important;
+		width: 90%!important
+	}
+}
+
+@media only screen and (min-width:1024px) and (max-width:1365px) {
+	.head-contact-top {
+		display:block;
+}
+a.skype {
+    background:rgba(255, 255, 255, 0.44);
+    padding: 10px 17px 13px 15px;
+}
+span.mr-3.skype img {
+    width: 20px;
+}
+span.mr-3.skype {
+    margin-right: 0!important;
+}
+.head-contact-top span a.mailto i {
+	background-color: rgba(255, 255, 255, 0.44);
+	padding: 9px 15px;
+	font-size: 1.5rem;
+	height: 43px;
+	width: 46px;
+	display: inline-table;
+	align-items: center;
+	align-content: center;
+	margin: 0px 2px;
+	vertical-align: middle;
+}
+	.head-contact-top span a.mailto b, img.divider-head {
+		display: none;
+}
+.head-contact-top .mail-span, .head-contact-top .skype {
+    margin-right: 0!important;
+}
+	.development_section {
+		padding-right: 0!important;
+		padding-left: 0!important
+	}
+	.div3 .div32 .row .col .card .default p {
+		font-size: .99em
+	}
+	.happy .col-L h3 {
+		margin-left: 54%;
+		margin-bottom: 2%
+	}
+	.happy .col-R .happyGreenDiv .threeboxdiv .tabH4Style {
+		padding-left: 1.4rem
+	}
+	.threeboxdiv div .tabPStyle {
+		padding-left: 1.4rem
+	}
+	.happy .col-R .happyGreenDiv {
+		width: 100%;
+		margin-left: -30%
+	}
+	.happy .col-R .happyGreenDiv .happytenp {
+		margin-right: 5%
+	}
+	.div3 h3 {
+		font-size: 10.7vw;
+		right: 1%;
+		margin-top: -11.7%
+	}
+	.div3 .div32 .row .col {
+		height: 300px
+	}
+	.div3 .div32 .row .col .card .hoverdiv a {
+		font-size: .8rem
+	}
+	.cstmRowBackground {
+		padding: 10% 0 6%
+	}
+	button.btndivButton {
+		font-size: 1.5em;
+		width: 410px
+	}
+	.commentdiv .commentBox .commentBox1 .comment {
+		font-size: .85em
+	}
+	.commentdiv .commentSlider {
+		margin-top: 11%
+	}
+	.commentdiv .commentdivInner h3 {
+		margin-top: -9.2%;
+		font-size: 9.6vw
+	}
+	.commentdiv .commentdivInner h3 .happyTextStyle {
+		margin-top: -9.2%;
+		font-size: 9.6vw
+	}
+	.firstDivContent {
+		font-size: 5.6vw
+	}
+	.firstDivHeight {
+		font-size: 1.7em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 {
+		width: 42%;
+		height: 14vw;
+		margin-bottom: -5%
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv1 .directories button,
+	.indexpartnerDiv .indexprtnrinnerdiv1 .partners button {
+		padding: 36% 2% 0;
+		font-size: 1.4em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP1 {
+		font-size: 3.3vw
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 .partnerP2 {
+		font-size: 1.4em
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 {
+		width: 80%!important;
+		margin: 0 10%!important
+	}
+	.indexpartnerDiv .indexprtnrinnerdiv2 img {
+		width: 30%;
+		margin-right: 2%
+	}
+	.thirdDivHeading,
+	.thirdDivPara {
+		font-size: 4.7vw
+	}
+	.thirdDivh6 {
+		font-size: 1.5em
+	}
+	.IndexContactImg {
+		height: fit-content!important
+	}
+	.footer-contact-section .myForm {
+		width: 92%;
+		padding: 2% 6% 16% 6%
+	}
+	.android .androidgreendiv .androidgreenR ul {
+		margin-left: 0;
+		padding-bottom: 4%
+	}
+	.android .androidcasestydiv .androidcasestytxt .androidcasestyP2 {
+		line-height: .8
+	}
+	.android .androidgreendiv .androidgreenR {
+		padding-right: 5%
+	}
+	.e_commerce .e-commercasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		line-height: .8
+	}
+	.e_commerce .e-commercasestydiv .carousel-indicators {
+		bottom: -15%
+	}
+	.engagementSection .engagementColrow .colImgTag {
+		margin-top: 1%
+	}
+	.engagementSection .OnlineFoodimg {
+		margin: 0 11%
+	}
+	.hybrid .hybridcasestydiv .hybridcasestytxt .hybridcasestyP2 {
+		line-height: .8
+	}
+	.Portfolio .MainColoum {
+		width: 100%
+	}
+	.Portfolio .MainContaint .pWithImg {
+		font-size: 1.7em
+	}
+	.Portfolio .headClass {
+		font-size: 1.7em
+	}
+	.Portfolio .behind {
+		font-size: 1.5em
+	}
+	.Portfolio .Detail {
+		font-size: 1.5em
+	}
+	.aboutus_section .productdev-blk div#design:after,
+	.aboutus_section .productdev-blk div#development:after,
+	.aboutus_section .productdev-blk div#launch:after,
+	.aboutus_section .productdev-blk div#plan:after,
+	.aboutus_section .productdev-blk div#startegy:after,
+	.aboutus_section .productdev-blk div#test:after {
+		top: -16.5%!important
+	}
+	.learning-Top .ExpandingDiv .Expanding {
+		width: 91%;
+		margin-left: 8%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt {
+		width: 75%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-control-prev {
+		bottom: -92%;
+		left: 81%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-control-next {
+		right: -7%;
+		bottom: -92%
+	}
+	.greatLearningDivImge .greatLearningDivImgetxt .carousel-indicators {
+		bottom: 0!important
+	}
+	.caseStudyInner .caseStudyInnerText {
+		line-height: .8;
+		margin-bottom: -1.9%
+	}
+	.Web .container-Web-Div .webpdiv .col-md-6 img {
+		width: 78%;
+		margin-bottom: 14%;
+		margin-top: 0
+	}
+	.Web .container-Web-Div .webpdiv .col-md-6 img {
+		width: 78%;
+		margin-bottom: 14%;
+		margin-top: 0
+	}
+	.Web .ourProcessBG .devProcessSteps .secondStep {
+		left: 37%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .thirdStep {
+		right: 20%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .fourthStep {
+		right: 5%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .fivethStep {
+		right: 15%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .sixthStep {
+		left: 39%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .seventhStep {
+		left: 9%!important
+	}
+	.engagementSection .engagenmentContainer-top .engagnmentpdivP {
+		font-size: 2.5vw
+	}
+	.engagementSection .OurWide {
+		padding: 14% 2.9rem 3%
+	}
+	.aboutus_section .header_text .header_textR img {
+		width: 82%!important
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p3 {
+		padding: 0
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p4,
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv .p5 {
+		padding: 3%
+	}
+	.parkingSWSolution .ParkingPTicketApp .ParkingPTicketAppColL .ParkingPTicketAppColLDiv p {
+		line-height: 1.35
+	}
+}
+
+@media only screen and (min-width:1366px) and (max-width:2713px) {
+	.development_section {
+		padding-top: 4.5%
+	}
+	.div3 .div32 .row .col {
+		height: 290px
+	}
+	.div3 .div32 .row .col .card .default p {
+		font-size: .99em
+	}
+	.commentdiv .commentBox .commentBox1 .comment {
+		font-size: .85em
+	}
+	.aboutus_section .header_text .header_textR img {
+		width: 90%!important
+	}
+	.aboutus_section .whoweare_block {
+		top: -15.1rem
+	}
+}
+
+@media only screen and (min-width:1536) and (max-width:2713) {
+	.happy .col-L h3 {
+		font-size: 4.7vw!important
+	}
+	.Web .ourProcessBG .devProcessSteps .secondStep {
+		left: 37%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .thirdStep {
+		right: 24%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .fourthStep {
+		right: 12%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .fivethStep {
+		right: 21%!important
+	}
+	.Web .ourProcessBG .devProcessSteps .seventhStep {
+		left: 14%!important
+	}
+}
